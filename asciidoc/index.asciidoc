@@ -1,12 +1,44 @@
-= Repair Cafe in Altdorf bei Nürnberg
+= Repair Café Altdorf bei Nürnberg
 :linkcss:
 :stylesdir: styles
 :docinfo1:
 :icons:
+:imagesdir: images
 :keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
 :description: Repair Cafe in Altdorf bei Nürnberg
 
+image:repaircafe_banner_1000px.png["Wegwerfen? Denkste! Repair Café", width=800]
+
+[role="navbar"]
+link:index.html[Home]
+link:faq.html[FAQ]
+link:besucherinfos.html[Besucherinfos]
+link:termine.html[Termine]
+link:berichte.hmtl[Berichte]
+link:newsletter.html[Newsletter]
+link:kontakt.html[Kontakt]
+link:impressum.html[Impressum]
+
+== Repair Café Altdorf bei Nürnberg
+
+image::muelltonne.jpg["Auch improvisieren ist wichtig. Diese Mülltonne erfüllt jetzt wieder ihren Zweck.",float="right"]
+
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
+Hier kommen dann die Inhalte hin.
 
 == Über uns
 
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
 The quick brown fox jumps over the lazy dog.
