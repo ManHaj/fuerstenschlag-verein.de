@@ -51,7 +51,7 @@ do
     mkdir -p $HTMLDIR/$DESTDIR/
     echo "   creating $HTMLDIR/$DESTDIR/$BASENAME.html"
     asciidoc -b xhtml11 -o $HTMLDIR/$DESTDIR/$BASENAME.html $FILE
-    $BINDIR/postprocessor.pl --file $HTMLDIR/$DESTDIR/$BASENAME.html --tmpdir $TMPDIR --includes-dir $POSTPROCESSOR_INCLUDES_DIR
+    #$BINDIR/postprocessor.pl --file $HTMLDIR/$DESTDIR/$BASENAME.html --tmpdir $TMPDIR --includes-dir $POSTPROCESSOR_INCLUDES_DIR
     #echo "    <url>" >> $TMP_SITEMAP
     #echo "        <loc>http://wiki.gluga.de/$BASENAME.html</loc>" >> $TMP_SITEMAP
     #echo "        <lastmod>$MTIME</lastmod>" >> $TMP_SITEMAP
