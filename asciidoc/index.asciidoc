@@ -1,0 +1,12 @@
+= Repair Cafe in Altdorf bei Nürnberg
+:linkcss:
+:stylesdir: styles
+:docinfo1:
+:icons:
+:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
+:description: Repair Cafe in Altdorf bei Nürnberg
+
+
+== Über uns
+
+The quick brown fox jumps over the lazy dog.

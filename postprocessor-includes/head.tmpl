@@ -1,0 +1,21 @@
+<!-- inserted by postprocessor: head.tmpl start (generated for area <TMPL_VAR NAME="AREA">) -->
+    <div id="top_level">
+        <div id="navi">
+
+            <h4><a class="noUnderline">Navigation</a></h4>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+            </ul>
+
+          <TMPL_IF NAME="ANCHORS_AVAILABLE">
+            <h4><a class="noUnderline">Diese Seite</a></h4>
+            <ul>
+                <TMPL_LOOP NAME="ANCHOR_LOOP">
+                  <li><a href="#<TMPL_VAR NAME="ANCHOR">"><TMPL_VAR NAME="DESCR"></a></li>
+                </TMPL_LOOP>
+            </ul>
+          </TMPL_IF>
+
+        </div>
+        <div id="maintext">
+<!-- inserted by postprocessor: head.tmpl start -->
