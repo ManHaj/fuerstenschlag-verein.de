@@ -1,0 +1,14 @@
+= Repair Café Altdorf: Thema
+:linkcss:
+:stylesdir: styles
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
+:description: Repair Cafe in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Überschrift
+
+Hier kommen die Inhalte
