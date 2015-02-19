@@ -45,9 +45,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
 }
 
-/* h1, h2, h3 {
-  border-bottom: 2px solid silver;
-} */
 h2 {
   padding-top: 0.5em;
 }
@@ -97,13 +94,11 @@ pre {
 
 #footer {
   font-size: small;
-  border-top: 2px solid silver;
-  padding-top: 0.5em;
-  margin-top: 4.0em;
 }
 #footer-text {
-  float: left;
+  float: right;
   padding-bottom: 0.5em;
+  padding-top: 1.5em;
 }
 #footer-badges {
   float: right;
@@ -652,4 +647,8 @@ div.navbar a {
 
 #header, #footnotes {
   display: none;
+}
+
+#content {
+  margin-bottom: 1em;
 }
