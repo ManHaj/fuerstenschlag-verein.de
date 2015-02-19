@@ -1,0 +1,48 @@
+= Repair Café Altdorf: Besucherinfos / Hausordnung
+:linkcss:
+:stylesdir: styles
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
+:description: Repair Cafe in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Repair Café Altdorf: Besucherinfos / Hausordnung
+
+Alle Besucher des Repair Cafés werden gebeten, die folgende
+Hausordnung per Unterschrift zu akzeptieren:
+
+ * Die Aktivitäten des Repair Cafés werden kostenlos und auf
+   ehrenamtlicher Basis von den Reparaturexperten vor Ort ausgeführt.
+ * Reparaturen werden soweit wie möglich vom Besucher selbst
+   durchgeführt, erforderlichenfalls mit Hilfe der vor Ort anwesenden
+   Reparaturfachleute.
+ * Das Repair Café ist kein kostenloser Reparaturdienstleister. Es geht
+   im Repair Café um Hilfe zur Selbsthilfe. Die Organisatoren und
+   Reparaturexperten können darum nur im Falle des Vorliegens von Vorsatz
+   oder grober Fahrlässigkeit für Schäden an Eigentum, Körper, Gesundheit
+   oder Leben, Haftung übernehmen.
+ * Ein freiwilliger Beitrag wird sehr geschätzt.
+ * Neue Materialien wie Elektrizitätskabel, Stecker, Sicherungen, neue
+   Knieleder oder Applikationen sind nicht kostenlos und müssen gesondert
+   bezahlt werden.
+ * Das Anbieten von kaputten Gegenständen zur Reparatur geschieht auf
+   eigenes Risiko.
+ * Die Reparaturfachleute geben keine Garantie auf die mit ihrer Hilfe
+   durchgeführten Reparaturen und sind nicht dafür haftbar, wenn
+   Gegenstände, die im Repair Café repariert wurden, zuhause nicht
+   funktionieren.
+ * Die Reparaturfachleute behalten sich das Recht vor, bestimmte
+   Gegenstände nicht zu reparieren.
+ * Die Reparaturfachleute sind nicht dazu verpflichtet, demontierte
+   Geräte, die nicht repariert werden können, wieder zusammenzusetzen.
+ * Besucher des Repair Cafés sind selbst für die ordnungsgemäße
+   Entsorgung oder Beseitigung von kaputten oder funktionsuntüchtigen
+   Gegenständen verantwortlich, die nicht repariert werden konnten.
+ * Zur Vermeidung langer Wartezeiten wird bei starkem Zulauf höchstens
+   ein Gegenstand je Besucher repariert. Für jeden weiteren Gegenstand
+   stellt sich der Besucher wieder hinten in der Reihe an.
+ * Besucher die nicht mit der obigen Hausordnung einverstanden sind,
+   werden gebeten die Veranstaltung nun wieder zu verlassen.

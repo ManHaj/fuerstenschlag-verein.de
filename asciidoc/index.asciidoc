@@ -13,22 +13,34 @@ include::head-area.include[]
 
 image::muelltonne.jpg["Auch improvisieren ist wichtig. Diese Mülltonne erfüllt jetzt wieder ihren Zweck.",float="right"]
 
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
-Hier kommen dann die Inhalte hin.
+Was macht man mit einem Staubsauger, der nicht mehr saugt? Mit
+einem Toaster, der nicht mehr toastet? Einem PC, der nur noch brummt?
 
-== Über uns
+*Wegwerfen? Denkste!*
 
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
+Kommen Sie ins RepairCafé Altdorf und reparieren Sie es wieder!
+Wir zeigen Ihnen, wie das geht.
+
+== Was ist ein Repair Café?
+
+Repair Café ist ein Reparatur-Treff bei dem Sie Menschen treffen, die
+sich zusammen mit Ihnen um Ihre defekten Sachen kümmern.
+Ehrenamtliche Reparatur-Experten helfen den Besuchern, so viel wie
+möglich selbst an den mitgebrachten Gegenständen wieder in Ordnung zu
+bringen.
+
+Wer nichts zu reparieren hat, kann auch einfach mal auf eine Tasse
+Kaffee vorbeischauen und sich umsehen, was man alles wieder zum Leben
+erwecken kann! Reparaturhelfer werden auch sicher nicht nach Hause
+geschickt!
+
+== Warum machen wir das?
+
+[quote, repaircafe@gabriele-henkel.de]
+____
+Wir möchten der Wegwerfmentalität etwas entgegensetzen. Damit
+wollen wir nicht nur unsere Müllberge verkleinern, sondern auch
+zeigen, wie sich mit unserer Umwelt auch schonender umgehen lässt.
+Dass sich dabei auch die Gelegenheit zu Begegnungen, Inspirationen
+und Austausch mit Gleichgesinnten ergibt, ist durchaus gewollt!
+____

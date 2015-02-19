@@ -1,0 +1,20 @@
+= Repair Café Altdorf: Kontakt
+:linkcss:
+:stylesdir: styles
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
+:description: Repair Cafe in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Repair Café Altdorf: Kontakt
+
+Werner Birn +
+Badener Straße 68 +
+90518 Altdorf
+
+Tel.: 09187-2673
+
+E-Mail: Info@RepairCafe-Altdorf.de

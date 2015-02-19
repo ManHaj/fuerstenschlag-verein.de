@@ -3,3 +3,11 @@
 * pre-update hook einbauen
 
 * commit-Mailinglist erstellen
+
+* serifenlose schrift
+
+* Zitat aufhübschen
+
+* bold aufhübschen, orange machen
+
+* li: lila
