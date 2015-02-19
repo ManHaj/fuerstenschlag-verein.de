@@ -14,11 +14,11 @@ image:repaircafe_banner_1000px.png["Wegwerfen? Denkste! Repair Café", width=800
 
 == Repair Café Altdorf bei Nürnberg
 
-image::muelltonne.jpg["Auch improvisieren ist wichtig. Diese Mülltonne erfüllt jetzt wieder ihren Zweck.",float="right",width=200]
+image::muelltonne.jpg["Auch improvisieren ist wichtig. Diese Mülltonne erfüllt jetzt wieder ihren Zweck.",float="right",width=300]
 
 Auch in Altdorf bei Nürnberg wird es ein Repair Café geben, so viel ist
 sicher. Unser erstes Repair Café wird voraussichtlich ca. im März 2015
-stttfinden. Wir sind derzeit intensiv mit den Vorbereitungen
+stattfinden. Wir sind derzeit intensiv mit den Vorbereitungen
 beschäftigt, unter anderem entsteht hier gerade die Webseite.
 
 Mehr Infos folgen hier in Kürze.
