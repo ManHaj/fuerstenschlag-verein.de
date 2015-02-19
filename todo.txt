@@ -1,0 +1,5 @@
+* pre-commit hook einbauen
+
+* pre-update hook einbauen
+
+* commit-Mailinglist erstellen
