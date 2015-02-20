@@ -1,0 +1,27 @@
+#!/bin/sh
+
+# Redirect output to stderr.
+exec 1>&2
+
+TOTAL_RC=0
+
+#echo "### pre-commit-hook"
+for FILE in $(git diff --cached --name-only)
+do
+    if echo $FILE | egrep "\.asciidoc$" > /dev/null
+    then
+        #echo $FILE: doing syntax check
+        asciidoc -o /dev/null $FILE
+        RC=$?
+
+        if [ $RC -gt 0 ]
+        then
+            echo "### $FILE is not in valid asciidoc format. Commit is not possible."
+            TOTAL_RC=1
+        fi
+    #else
+    #    echo $FILE: not an .asciidoc file, no syntax check
+    fi
+done
+#echo "### pre-commit-hook end"
+exit $TOTAL_RC
