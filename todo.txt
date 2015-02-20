@@ -3,3 +3,4 @@
 * pre-update hook einbauen
 
 * commit-Mailinglist erstellen
+  als Empfänger eintragen in /opt/gitosis/repositories/repaircafe-altdorf.de.git/config
