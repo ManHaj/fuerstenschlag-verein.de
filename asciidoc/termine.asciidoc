@@ -1,0 +1,17 @@
+= Repair Café Altdorf: Termine
+:linkcss:
+:stylesdir: styles
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
+:description: Repair Cafe in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Repair Café Altdorf: Termine
+
+Unser erstes Repair Café wird voraussichtlich ca. im März 2015
+stattfinden, wir sind derzeit intensiv mit den Vorbereitungen
+beschäftigt. Sobald Termin und Ort feststehen, werden wir diese hier
+bekannt geben.
