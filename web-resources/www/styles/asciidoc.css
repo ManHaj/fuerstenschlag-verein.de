@@ -108,10 +108,14 @@ pre {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 }
-div.imageblock, div.exampleblock, div.verseblock,
+div.exampleblock, div.verseblock,
 div.quoteblock, div.literalblock, div.listingblock, div.sidebarblock,
 div.admonitionblock {
   margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.imageblock  {
+  margin-left: 1.0em;
   margin-bottom: 1.5em;
 }
 div.admonitionblock {
@@ -127,7 +131,7 @@ div.content { /* Block element content. */
 
 /* Block element titles. */
 div.title, caption.title {
-  color: #527bbd;
+  color: #e95b12;
   font-weight: bold;
   text-align: left;
   margin-top: 1.0em;
@@ -296,6 +300,7 @@ span.footnote, span.footnoteref {
 #footnotes {
   margin: 20px 0 20px 0;
   padding: 7px 0 0 0;
+  clear: both;
 }
 
 #footnotes div.footnote {
@@ -303,13 +308,7 @@ span.footnote, span.footnoteref {
 }
 
 #footnotes hr {
-  border: none;
-  border-top: 1px solid silver;
-  height: 1px;
-  text-align: left;
-  margin-left: 0;
-  width: 20%;
-  min-width: 100px;
+  display: none;
 }
 
 div.colist td {
@@ -646,7 +645,7 @@ div.navbar a {
   margin-right: 26px;
 }
 
-#header, #footnotes {
+#header {
   display: none;
 }
 

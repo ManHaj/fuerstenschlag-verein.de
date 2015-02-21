@@ -2,3 +2,5 @@
   als Empfänger eintragen in /opt/gitosis/repositories/repaircafe-altdorf.de.git/config
 
 * mobil style optimieren
+
+* bei Google anmelden

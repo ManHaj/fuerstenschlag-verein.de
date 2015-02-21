@@ -11,7 +11,22 @@ include::head-area.include[]
 
 == Repair Café Altdorf: Termine
 
-Unser erstes Repair Café wird voraussichtlich ca. im März 2015
-stattfinden, wir sind derzeit intensiv mit den Vorbereitungen
-beschäftigt. Sobald Termin und Ort feststehen, werden wir diese hier
-bekannt geben.
+Unser erstes Repair Café findet statt am
+
+*28. März 2015* +
+*14:00 bis 18:00 Uhr*
+
+im
+
+link:http://www.jugendhilfe-rummelsberg.de/jugendhilfe_nuernberger_land_kinderkaffee.jugendhilfe[Kinder
+Cafe KAKAU] +
+Röderstraße 5 +
+90518 Altdorf
+
+Zugang von der Ohmstraße aus
+
+.Anfahrt
+
+Kinder Cafe KAKAU
+link:http://www.openstreetmap.org/?mlat=49.38668&mlon=11.3521&zoom=18#map=18/49.38675/11.35404[bei
+OpenStreetMap]

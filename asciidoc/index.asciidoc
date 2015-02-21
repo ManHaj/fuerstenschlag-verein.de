@@ -21,7 +21,7 @@ einem Toaster, der nicht mehr toastet? Einem PC, der nur noch brummt?
 Kommen Sie ins RepairCafé Altdorf und reparieren Sie es wieder!
 Wir zeigen Ihnen, wie das geht.
 
-== Was ist ein Repair Café?
+=== Was ist ein Repair Café?
 
 Repair Café ist ein Reparatur-Treff bei dem Sie Menschen treffen, die
 sich zusammen mit Ihnen um Ihre defekten Sachen kümmern.
@@ -34,7 +34,7 @@ Kaffee vorbeischauen und sich umsehen, was man alles wieder zum Leben
 erwecken kann! Reparaturhelfer werden auch sicher nicht nach Hause
 geschickt!
 
-== Warum machen wir das?
+=== Warum machen wir das?
 
 [quote, repaircafe@gabriele-henkel.de]
 ____
