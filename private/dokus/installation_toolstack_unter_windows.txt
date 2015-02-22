@@ -1,0 +1,27 @@
+ * python-3.4.2.msi von https://www.python.org/downloads/release/python-342/
+   per Doppelklick installieren
+
+ * putty.exe, pageant.exe, plink.exe, pscp.exe, psftp.exe, puttygen.exe von
+   http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+   puttygen.exe doppelklicken, generate
+   Key comment: eMail-Adresse
+   Passphrase vergeben
+   Save public key
+   Save private key
+   Conversions -> Export OpenSSH key
+      C:\Dokumente und Einstellungen\<username>\.ssh\id_rsa
+
+   Verknüpfung erstellen:
+   C:\Programme\Putty\pageant.exe "C:\Dokumente und Einstellungen\...\<email-adresse>.ppk"
+   und diese Doppelklicken
+
+ * eclipse-java-luna-SR1a-win32.zip von http://www.eclipse.org/downloads/
+   auspacken in beliebigen Folder
+   Starten per Doppelklick
+
+   rechts oben: Open Perspective -> Git
+   Clone a git Repository
+   URI: gitosis@git.gluga.de:repaircafe-altdorf.de.git
+
+ * asciidoc-8.6.9.zip von http://sourceforge.net/projects/asciidoc/
