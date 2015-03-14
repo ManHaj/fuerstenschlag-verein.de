@@ -6,8 +6,9 @@
 BINDIR=$(dirname $0)
 ADDIR=$BINDIR/../asciidoc
 HTMLDIR=$BINDIR/../www
+CALDIR=$BINDIR/../calendar
 RESOURCESDIR=$BINDIR/../web-resources
-POSTPROCESSOR_INCLUDES_DIR=$BINDIR/../postprocessor-includes
+TMPDIR=$BINDIR/../tmp
 
 which asciidoc > /dev/null 2> /dev/null
 RC=$?
@@ -22,7 +23,15 @@ then
     mkdir -p $HTMLDIR || exit 1
 fi
 
+if [ ! -d $TMPDIR ]
+then
+    mkdir -p $TMPDIR || exit 2
+fi
+
 echo "### working in $HTMLDIR:"
+
+echo "   creating calendar.include, calendar.include.latest and calendar.ics"
+$BINDIR/calendar.pl --read-from $CALDIR/calenadar.ini --write-asciidoc $TMPDIR/calendar.include --write-ical $HTMLDIR/calendar.ics
 
 TMP_SITEMAP=$(mktemp --tmpdir=$HTMLDIR)
 echo "   creating new sitemap in $TMP_SITEMAP"

@@ -426,7 +426,7 @@ div.tableblock {
   margin-bottom: 1.5em;
 }
 div.tableblock > table {
-  border: 3px solid #527bbd;
+  border: 3px solid #543686;
 }
 thead, p.table.header {
   font-weight: bold;
@@ -466,7 +466,8 @@ table.tableblock {
 }
 thead, p.tableblock.header {
   font-weight: bold;
-  color: #527bbd;
+  color: #ffffff;
+  background: #543686;
 }
 p.tableblock {
   margin-top: 0;
@@ -651,4 +652,24 @@ div.navbar a {
 
 #content {
   margin-bottom: 1em;
+}
+
+thead th {
+  padding-top: 0;
+  padding-bottom: 3px;
+}
+
+span.rctime,
+span.rcnofocus {
+  font-size: 80%;
+  font-style: italic;
+}
+
+span.rcfocus {
+  font-style: italic;
+}
+
+span.rctitle {
+  font-weight: bold;
+  color: #e95b12;
 }

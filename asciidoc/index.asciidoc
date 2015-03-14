@@ -23,7 +23,8 @@ Wir zeigen Ihnen, wie das geht.
 
 === Nächstes Repair Café
 
-*28. März 2015* ab *14:00 Uhr*, siehe link:termine.html[Termine]
+include::../tmp/calendar.include.latest[]
+- siehe link:termine.html[Termine]
 
 === Was ist ein Repair Café?
 

@@ -11,22 +11,33 @@ include::head-area.include[]
 
 == Repair Café Altdorf: Termine
 
-Unser erstes Repair Café findet statt am
 
-*28. März 2015* +
-*14:00 bis 18:00 Uhr*
+[options="header,autowidth"]
+|===
+|Datum|Beschreibung|Ort
+include::../tmp/calendar.include[]
+|===
 
-im
+== Veranstaltungsorte
 
-link:http://www.jugendhilfe-rummelsberg.de/jugendhilfe_nuernberger_land_kinderkaffee.jugendhilfe[Kinder
-Cafe KAKAU] +
+=== Kindercafé KAKAU
+
 Röderstraße 5 +
 90518 Altdorf
 
 Zugang von der Ohmstraße aus
 
-.Anfahrt
+link:http://www.openstreetmap.org/?mlat=49.38668&mlon=11.3521&zoom=18#map=18/49.38675/11.35404[Anfahrt
+(OpenStreetMap)]
 
-Kinder Cafe KAKAU
-link:http://www.openstreetmap.org/?mlat=49.38668&mlon=11.3521&zoom=18#map=18/49.38675/11.35404[bei
-OpenStreetMap]
+Webseite
+link:http://www.jugendhilfe-rummelsberg.de/jugendhilfe_nuernberger_land_kinderkaffee.jugendhilfe[Kindercafé
+KAKAU]
+
+=== Schulungsraum Rotes Kreuz
+
+Feuerweg 4 +
+90518 Altdorf
+
+link:http://www.openstreetmap.org/?mlat=49.38360&mlon=11.3515&zoom=18#map=18/49.38486/11.35207[Anfahrt
+(OpenStreetMap)]

@@ -4,3 +4,5 @@
 * mobil style optimieren
 
 * bei Google anmelden
+
+* awstats einrichten für Zugriffsstatistiken
