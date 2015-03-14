@@ -6,3 +6,5 @@
 * bei Google anmelden
 
 * awstats einrichten für Zugriffsstatistiken
+
+* ical testen und verlinken

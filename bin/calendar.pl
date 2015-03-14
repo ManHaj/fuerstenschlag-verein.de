@@ -70,8 +70,8 @@ open(ICAL, ">$outfile_ical") or die "unable to write to ical outfile $outfile_ic
     # ICAL header
     print ICAL "BEGIN:VCALENDAR\n";
     print ICAL "VERSION:2.0\n";
-    print ICAL "PRODID:Gluga Calendar 0.1\n";
-    print ICAL "X-WR-CALNAME:Gluga Kalender\n";
+    print ICAL "PRODID:Repair Cafe Altdorf Calendar 0.1\n";
+    print ICAL "X-WR-CALNAME:Repair Cafe Altdorf Terminplan\n";
 
     # include entries from prepared ics include file
     if ($ics_include_file ne "") {
