@@ -634,7 +634,7 @@ body {
 
 div.navbar {
   background: #543686;
-  padding: 5px 10px 5px 10px;
+  padding: 0 10px 0 10px;
   margin: 0 -15px;
 }
 
@@ -644,6 +644,11 @@ div.navbar a {
   font-family: Arial,Helvetica,sans-serif;
   margin-left: 2px;
   margin-right: 26px;
+}
+
+
+div.navbar p {
+  line-height: 2.5;
 }
 
 #header {
