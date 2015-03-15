@@ -5,4 +5,4 @@
 
 * awstats einrichten für Zugriffsstatistiken
 
-* favicon erstellen/einbinden
+* logrotate einrichten

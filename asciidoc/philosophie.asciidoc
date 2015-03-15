@@ -1,6 +1,7 @@
 = Repair Café Altdorf: Philosophie
 :linkcss:
 :stylesdir: styles
+:disable-javascript:
 :docinfo1:
 :icons:
 :imagesdir: images
