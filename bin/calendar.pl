@@ -193,6 +193,9 @@ open(ICAL, ">$outfile_ical") or die "unable to write to ical outfile $outfile_ic
                 $location_ical .= $calendar_hash{$location_section_id}{"room"};
             }
         }
+        # commas need to be escaped in ical entries
+        $location_ical =~ s/,/\\,/g;
+
 
         #
         # description for ICAL
