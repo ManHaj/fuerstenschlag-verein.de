@@ -575,7 +575,7 @@ div.sidebarblock {
   }
 
   div.imageblock {
-    float: left !important;
+    float: none !important;
   }
 }
 

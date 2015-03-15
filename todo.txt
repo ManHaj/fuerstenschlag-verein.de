@@ -1,8 +1,46 @@
 * commit-Mailinglist erstellen
   als Empfänger eintragen in /opt/gitosis/repositories/repaircafe-altdorf.de.git/config
 
-* mobil style optimieren
-
 * awstats einrichten für Zugriffsstatistiken
 
 * logrotate einrichten
+
+* mobil style optimieren:
+
+  To: webmaster of http://www.repaircafe-altdorf.de/
+
+  Google systems have tested 6 pages from your site and found that 100% of
+  them have critical mobile usability errors. The errors on these 6 pages
+  severely affect how mobile users are able to experience your website. These
+  pages will not be seen as mobile-friendly by Google Search, and will
+  therefore be displayed and ranked appropriately for smartphone users.
+
+  Fix this now:
+
+  1. Find problematic pages
+  View a report of the non-mobile-friendly pages found on your site, and the
+  issues discovered:
+  https://www.google.com/webmasters/tools/mobile-usability?siteUrl=http://www.repaircafe-altdorf.de/
+
+  2. Learn about mobile-friendly design
+  There are a variety of techniques you can use to make your site
+  mobile-friendly. Specifically, look for information about the issues
+  brought up in Webmaster Tools:
+  https://developers.google.com/web/fundamentals/
+
+  3. Fix mobile usability issues on your site
+  Fix the issues preventing your site from being mobile-friendly.
+
+  Not sure how to proceed?
+
+  * If your site is built with software like Wordpress or Joomla (also known
+  as "Content Management System" or CMS), read the easy steps to make a CMS
+  mobile-friendly:
+  https://developers.google.com/webmasters/mobile-sites/website-software/
+
+  * Read more about building mobile-friendly websites on our Developer site:
+  https://developers.google.com/webmasters/mobile-sites/get-started/
+
+  * Ask a question in our forum for more help - mention message type
+  [WNC-451500].
+  https://support.google.com/webmasters/go/community
