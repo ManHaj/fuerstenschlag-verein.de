@@ -34,6 +34,7 @@ Webseite
 link:http://www.jugendhilfe-rummelsberg.de/jugendhilfe_nuernberger_land_kinderkaffee.jugendhilfe[Kindercafé
 KAKAU]
 
+////
 === Schulungsraum Rotes Kreuz
 
 Feuerweg 4 +
@@ -41,3 +42,4 @@ Feuerweg 4 +
 
 link:http://www.openstreetmap.org/?mlat=49.38360&mlon=11.3515&zoom=18#map=18/49.38486/11.35207[Anfahrt
 (OpenStreetMap)]
+////
