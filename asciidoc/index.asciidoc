@@ -10,9 +10,9 @@
 
 include::head-area.include[]
 
-== Repair Café Altdorf bei Nürnberg
+image::spielgeraet_980px.jpg["Ob das Spielgerät noch repariert werden kann?",width="100%"]
 
-image::muelltonne.jpg["Auch improvisieren ist wichtig. Diese Mülltonne erfüllt jetzt wieder ihren Zweck.",float="right"]
+== Repair Café Altdorf bei Nürnberg
 
 Was macht man mit einem Staubsauger, der nicht mehr saugt? Mit
 einem Toaster, der nicht mehr toastet? Einem PC, der nur noch brummt?
