@@ -1,3 +1,11 @@
+* gitosis fixen: Manfred darf nicht lesen
+
+* Mailinglisten einrichten
+
+* Zertifikat für mailing.repaircafe-altdorf.de mit Manfred besorgen
+
+* Seite Veranstaltungsberichte erstellen
+
 * commit-Mailinglist erstellen
   als Empfänger eintragen in /opt/gitosis/repositories/repaircafe-altdorf.de.git/config
 

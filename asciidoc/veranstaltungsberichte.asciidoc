@@ -1,0 +1,37 @@
+= Repair Café Altdorf: Thema
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen, +
+Berichte, Veranstaltungen
+:description: Veranstaltungsberichte Repair Cafe in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== 28.03.2150: Erstes Altdorfer Repair-Café, ein toller Erfolg
+
+image::spielgeraet_980px.jpg["Ob das Spielgerät noch repariert werden kann?",width="100%"]
+
+Ob das Spielgerät noch repariert werden kann? Helge Siegner
+vom Repair-Café-Team hatte selber großen Spaß am Interesse und
+Mitmachen der beiden Buben.  Nach einer knappen Stunde surrten die
+Motörchen im Gerät und es war wieder spielbereit. Fast 40 Menschen aus
+Altdorf und Umgebung, von Lauf, aus Neumarkt bis hinunter nach
+Freystadt, kamen zum ersten Altdorfer Repair-Café, über 30 um sich
+beim Reparieren von Haushaltsgeräten (meistens Kaffemaschinen und
+Staubsauger) helfen zu lassen, ein paar auch nur informationshalber.
+
+Bei einigen wenigen Geräten waren allerding alle Bemühungen umsonst.
+Schade. Aber selbst der Mini-Backofen „Backwunder Charlotte“, eine
+Rarität aus der ehemaligen DDR, konnte wieder reanimiert werden. Beim
+Abschlussgespräch wurde besonders die sehr gute und problemlose
+Zusammenarbeit mit dem Löhe-Heim hervorgehoben. Das freundliche
+Ambiente des Kindercafés Kakau hatte erheblich zur guten Stimmung
+sowohl bei den Reparaturhelfern als auch bei den Besuchern mit
+beigetragen.
+
+Das link:termine.html[nächste Repair-Café] ist am Samstag, 25. April, wieder
+von 14 bis 17 Uhr im Kindercafé Kakau in der Ohmstraße.
