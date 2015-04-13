@@ -11,7 +11,7 @@ Berichte, Veranstaltungen
 
 include::head-area.include[]
 
-== 28.03.2150: Erstes Altdorfer Repair-Café, ein toller Erfolg
+== 28.03.2015: Erstes Altdorfer Repair-Café, ein toller Erfolg
 
 image::spielgeraet_980px.jpg["Ob das Spielgerät noch repariert werden kann?",width="100%"]
 
