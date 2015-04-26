@@ -2,16 +2,14 @@
 
 * Mailinglisten einrichten
 
-* Zertifikat für mailing.repaircafe-altdorf.de mit Manfred besorgen
-
-* Seite Veranstaltungsberichte erstellen
-
 * commit-Mailinglist erstellen
   als Empfänger eintragen in /opt/gitosis/repositories/repaircafe-altdorf.de.git/config
 
 * awstats einrichten für Zugriffsstatistiken
 
 * logrotate einrichten
+
+* mobil style mit drop-down menü wie repaircafe.org
 
 * mobil style optimieren:
 
