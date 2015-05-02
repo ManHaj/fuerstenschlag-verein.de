@@ -1,6 +1,8 @@
 * gitosis fixen: Manfred darf nicht lesen
 
-* Mailinglisten einrichten
+* Nachtrag zu Betreff-Prefix auf Helfer-ML posten; ggf. Diskussion zu Kommerz
+
+* Newsletter Mailingliste einrichten
 
 * commit-Mailinglist erstellen
   als Empfänger eintragen in /opt/gitosis/repositories/repaircafe-altdorf.de.git/config

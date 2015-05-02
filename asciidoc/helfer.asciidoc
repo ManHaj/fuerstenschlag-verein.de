@@ -1,0 +1,36 @@
+= Repair Café Altdorf: Helfer werden
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen, Helfer
+:description: mithelfen im Repair Cafe in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Repair Café Altdorf: Helfer werden
+
+Sie finden die link:philosophie.html[Idee] des Repair Café gut? Und
+Sie können irgendetwas reparieren? Das müssen keine Elektro-Geräte
+sein, das können auch Möbel sein, Kleidung, Schuhe, alte
+Spielsachen oder irgendetwas anderes.
+Oder Sie könnten sich vorstellen, sich auf anderen Gebieten
+einzubringen (Gäste in Empfang nehmen, Öffentlichkeitsarbeit,
+Organisation, ...)?
+
+Dann machen Sie bei uns mit. Wir freuen uns über jeden neuen Helfer.
+Wenden Sie sich jederzeit gerne link:kontakt.html[an uns].
+
+== Helfer-Mailingliste
+
+Für die Organisation unserer Veranstaltungen und die Diskussionen der
+Helfer untereinander haben wir eine 
+link:https://mailing.repaircafe-altdorf.de/mailman/listinfo/helfer[Mailingliste].
+Unsere Helfer sind hier alle vertreten und neue Helfer können sich
+hier gerne
+link:https://mailing.repaircafe-altdorf.de/mailman/listinfo/helfer[einschreiben].
+
+Unsere Diskussionen führen wir grundsätzlich öffentlich, nachzulesen
+im link:https://mailing.repaircafe-altdorf.de/pipermail/helfer/[Mailinglisten-Archiv].
