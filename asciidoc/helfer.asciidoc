@@ -26,7 +26,7 @@ Wenden Sie sich jederzeit gerne link:kontakt.html[an uns].
 == Helfer-Mailingliste
 
 Für die Organisation unserer Veranstaltungen und die Diskussionen der
-Helfer untereinander haben wir eine 
+Helfer untereinander haben wir eine
 link:https://mailing.repaircafe-altdorf.de/mailman/listinfo/helfer[Mailingliste].
 Unsere Helfer sind hier alle vertreten und neue Helfer können sich
 hier gerne
@@ -34,3 +34,82 @@ link:https://mailing.repaircafe-altdorf.de/mailman/listinfo/helfer[einschreiben]
 
 Unsere Diskussionen führen wir grundsätzlich öffentlich, nachzulesen
 im link:https://mailing.repaircafe-altdorf.de/pipermail/helfer/[Mailinglisten-Archiv].
+
+=== Hinweise zur Nutzung der Helfer-Mailingliste
+
+ * Wer eine Frage oder eine Info in die Runde schicken möchte,
+   sendet diese bitte an helfer@mailing.repaircafe-altdorf.de, die
+   Mailingliste kümmert sich dann darum, dass diese an alle Helfer
+   verteilt wird.
+
+ * Beim Antworten auf eine Mail aus der Mailingliste, sollte es in
+   den meisten Mail-Programmen ausreichen, einfach den "Antworten"-Button
+   zu verwenden. Die Mail sollte dann wieder an
+   helfer@mailing.repaircafe-altdorf.de gehen und damit an alle. Meistens
+   ist das sicher das gewünschte Verhalten. Nur so kann eine Diskussion
+   entstehen.
+
+ * Wenn stattdessen oben im "An"-Feld die persönliche Mail-Adresse des
+   Absenders stehen sollte, ist das natürlich ungeschickt. In dem Fall
+   bitte ein bisschen im Mail-Programm ein bisschen umschauen, da gibt es
+   dann eine Funktion, die "An Mailingliste antworten" oder so ähnlich
+   heisst: Die hilft in dem Fall weiter. (Man kann natürlich ins
+   "An"-Feld auch manuell wieder helfer@mailing.repaircafe-altdorf.de
+   eintragen, das funktioniert selbstverstänlich auch, ist aber etwas
+   unpraktischer.)
+
+ * In Einzelfällen kommt es vielleicht vor, dass man nicht an die
+   Mailingliste (d. h. an alle) antworten möchte, sondern wirklich nur
+   an den Absender direkt. Dafür gibt es eine Funktion die meist
+   "An Absender Antworten" oder so ähnlich heisst.
+
+ * Also langer Rede kurzer Sinn: Bitte beim Antworten ein bisschen
+   auf das achten, was im "An"-Feld drin steht.
+
+ * Die Mailingliste fügt in allen Mails +
+   +[Repair Cafe Helfer]+ +
+   im Betreff ein. Damit kann man - wenn gewünscht - im Mailprogramm eine
+   Regel erstellen, die die Mails automatisch in einen eigenen Ordner
+   verschiebt. Das hilft für bessere Übersichtlichkeit.
+
+ * Alle Mails, die über diese Mailingliste laufen, gibt's auch - zum
+   später nochmal nachlesen - im
+   link:https://mailing.repaircafe-altdorf.de/pipermail/helfer/[Archiv].
+   Das heisst man muss die Mails nicht alle in seinem Mailprogramm irgendwo
+   aufheben und hat trotzdem noch Zugriff darauf. Das gilt nicht nur für
+   die Helfer selbst, sondern auch für Außenstehende. So viel Offenheit
+   leisten wir uns - gerade gegenüber unseren Gästen bei den Repair-Cafes -
+   dass wir unsere Kommunikation auch offen führen.
+
+ * Wer eine neue Mail zu einem neuen Thema an die Mailingliste
+   schicken will, verwendet dazu bitte auch den Button "Neue Mail". +
+   Bitte in dem Fall *nicht* irgendeine andere Mail der Mailingliste
+   nehmen und da auf Antworten drücken. +
+   Hintergrund: Viele Mailprogramme und auch unser
+   Mailinglisten-Archiv stellen Diskussionen (auch Threads genannt) -
+   also eine Mail und alle Antworten dazu - zusammenhängend dar. Das
+   ist zum später nochmal nachlesen sehr übersichtlich, kann aber nur
+   dann funktionieren, wenn man ein neues Thema auch wirklich in eine
+   neue Mail packt und nicht in die Antwort auf irgendetwas anderes.
+
+ * Für diejenigen, die mehrere eMail-Adressen nutzen: Bitte darauf
+   achten, _die_ Mail-Adresse als Absender zu verwendet, mit der man
+   auf der Mailingliste eingetragen ist.
+
+     ** Grundsätzlich sind nur Mails an die Mailingliste erlaubt, die von
+        Mitgliedern dieser Liste kommen. Das dient als Schutz vor
+        unerwünschten (Werbe-)Mails. Alle Mails von anderen Absendern
+        müssen zunächst von einem Moderator freigegeben werden, bevor sie
+        an alle verteilt werden. Das dauert entsprechend ein bisschen länger.
+
+     ** Falls jemand von mehreren Absender-Adressen aus schreiben will:
+        Bitte kurze Info an die Moderatoren, wir können auch ganz einfach
+        weitere Adressen dauerhaft freischalten (müssen das halt einfach
+        nur wissen).
+
+ * Wenn es zur Mailingliste irgendwelche Fragen gibt oder Probleme
+   auftreten, bitte am besten gleich an die Liste
+   (helfer@mailing.repaircafe-altdorf.de) schreiben: Dann können wir
+   das auch direkt auf der Liste beantworten und dann wissen gleich
+   alle, wie es funktioniert! +
+   Oder kommt bei einem unserer Treffen auch gerne direkt auf uns zu.

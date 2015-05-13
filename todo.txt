@@ -1,7 +1,5 @@
 * gitosis fixen: Manfred darf nicht lesen
 
-* Nachtrag zu Betreff-Prefix auf Helfer-ML posten; ggf. Diskussion zu Kommerz
-
 * Newsletter Mailingliste einrichten
 
 * Mailinglisten-Archiv: Umlaute defekt
