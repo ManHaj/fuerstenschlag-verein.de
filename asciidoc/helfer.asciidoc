@@ -81,6 +81,19 @@ im link:https://mailing.repaircafe-altdorf.de/pipermail/helfer/[Mailinglisten-Ar
    leisten wir uns - gerade gegenüber unseren Gästen bei den Repair-Cafes -
    dass wir unsere Kommunikation auch offen führen.
 
+ * Bitte keine größren Dateien-Anhänge an die Mailingliste schicken. Viele
+   Leute lesen Mails heute am Handy und bezahlen da nach übertragenem
+   Volumen oder haben nur ein begrenztes Datenvolumen verfügbar.
+   Megabyte-große Dateien sind da kontraproduktiv. +
+   Die Mailingliste ist daher so eingestellt, dass Mails größer als
+   500 kb abgelehnt werden. Größere Dateien können in unseren Bereich
+   bei Dropbox hochgeladen werden, in der Mail kann man dann einfach
+   den Link verschicken. Damit muss das nur derjenige laden, der das
+   auch wirklich will. +
+   Bei einem Bild kann man auch die Auflösung deutlich reduzieren,
+   dann kann man das auch als Anhang verteilen - zum kurz mal
+   anschauen reicht das absolut aus.
+
  * Wer eine neue Mail zu einem neuen Thema an die Mailingliste
    schicken will, verwendet dazu bitte auch den Button "Neue Mail". +
    Bitte in dem Fall *nicht* irgendeine andere Mail der Mailingliste
