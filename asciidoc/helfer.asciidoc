@@ -81,7 +81,7 @@ im link:https://mailing.repaircafe-altdorf.de/pipermail/helfer/[Mailinglisten-Ar
    leisten wir uns - gerade gegenüber unseren Gästen bei den Repair-Cafes -
    dass wir unsere Kommunikation auch offen führen.
 
- * Bitte keine größren Dateien-Anhänge an die Mailingliste schicken. Viele
+ * Bitte keine größeren Dateien-Anhänge an die Mailingliste schicken. Viele
    Leute lesen Mails heute am Handy und bezahlen da nach übertragenem
    Volumen oder haben nur ein begrenztes Datenvolumen verfügbar.
    Megabyte-große Dateien sind da kontraproduktiv. +
