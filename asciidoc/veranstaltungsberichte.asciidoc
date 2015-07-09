@@ -11,7 +11,7 @@ Berichte, Veranstaltungen
 
 include::head-area.include[]
 
-== 27.06.2015: 80 Mal Nutzungsdauer verlängert - Zwischenbilanz Repair-Café Altdorf
+== 27.06.2015: 80 Mal Nutzungsdauer verlängert
 
 image::besucher1.jpg["Das gemütliche Ambiente im Kindercafé Kakau trägt zur guten Reparaturstimmung und auch zu den Reparaturerfolgen bei",width="100%"]
 
@@ -24,13 +24,13 @@ sogenanntes Repair-Café angeboten. Nach viermal Repair-Café (März,
 April, Mai, Juni) hier eine kleine Zwischenbilanz.
 
 80  Mal konnte geholfen werden. Die Nutzungsdauer von Geräten wurde
-verlängert , davon 55 Mal „ambulant“. Bei 25 Reparaturen waren
+verlängert, davon 55 Mal „ambulant“. Bei 25 Reparaturen waren
 Ersatzteile nötig, die der „Kunde“ selber besorgen sollte. Dazu gab es
 Empfehlungen, wo die zu besorgen seien, und wie diese dann selber
 eingebaut werden könnten. Der Besitzer hatte ja beim Auseinandernehmen
 und der Fehleranalyse mitgearbeitet. Oder es wurde angeboten, beim
 nächsten Repair-Café beim Einbau zu helfen. Leider konnten 33 Geräte
-konnten nicht repariert werden. Gründe waren z. B., dass das Gehäuse
+nicht repariert werden. Gründe waren z. B., dass das Gehäuse
 verklebt oder verschweißt war und eine Reparatur nur möglich gewesen
 wäre, wenn man das Gehäuse zerstört hätte.
 
@@ -71,7 +71,7 @@ Stoffarbeiten.
 
 Das Reparatur-Team sucht auch immer Menschen, die
 Freude daran haben, anderen bei kleineren Reparaturen zu helfen,
-zukünftig z.B. für die Schwerpunkte Holz/kleine Möbel/ Spielzeug. Wer
+zukünftig z. B. für die Schwerpunkte Holz / kleine Möbel/ Spielzeug. Wer
 sich vorstellen kann, ab und zu mitzumachen, kann einfach mal beim
 nächsten Repair-Café vorbeischauen oder direkt
 link:kontakt.html[Kontakt] mit uns aufnehmen.
