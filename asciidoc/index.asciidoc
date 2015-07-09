@@ -10,7 +10,7 @@
 
 include::head-area.include[]
 
-image::spielgeraet_980px.jpg["Ob das Spielgerät noch repariert werden kann?",width="100%"]
+image::selber_machen_980px.jpg["Selbst ist die Frau!",width="100%"]
 
 == Repair Café Altdorf bei Nürnberg
 
