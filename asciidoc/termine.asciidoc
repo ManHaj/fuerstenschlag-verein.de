@@ -22,6 +22,14 @@ include::../tmp/calendar.include[]
 *Hinweis:* Im August findet kein Repair Café statt: Wir machen
 Sommerpause!
 
+=== Newsletter
+
+Sie möchten kein Repair Café mehr verpassen? Dann sollten Sie sich
+ganz einfach für unseren
+link:https://mailing.repaircafe-altdorf.de/mailman/listinfo/newsletter[Newsletter
+anmelden]. Damit erhalten Sie aktuelle Infos immer als erstes ganz bequem
+in Ihr eMail Postfach.
+
 == Veranstaltungsorte
 
 === Kindercafé KAKAU

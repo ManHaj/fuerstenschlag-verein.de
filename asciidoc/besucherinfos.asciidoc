@@ -10,6 +10,15 @@
 
 include::head-area.include[]
 
+== Newsletter
+
+Sie möchten kein Repair Café mehr verpassen?
+
+Dann sollten Sie sich ganz einfach für unseren
+link:https://mailing.repaircafe-altdorf.de/mailman/listinfo/newsletter[Newsletter
+anmelden]. Damit erhalten Sie aktuelle Infos immer als erstes ganz bequem
+in Ihr eMail Postfach.
+
 == Repair Café Altdorf: Besucherinfos / Hausordnung
 
 Alle Besucher des Repair Cafés werden gebeten, die folgende
