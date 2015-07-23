@@ -1,5 +1,24 @@
 * gitosis fixen: Manfred darf nicht lesen
 
+* mailman: erst site spezifische pages bauen, und dann nochmal eine spezielle listinfo.html für den Newsletter
+
+  Mailman looks first at /var/mailman/lists/LISTNAME/en/listinfo.html
+  which is the list specific English template and which can be
+  created/edited directly or via the web list admin interface.
+
+  Next Mailman looks at /var/mailman/templates/HOST_NAME/en/listinfo.html
+  which is the domain specific English template.
+
+  Then Mailman looks at /var/mailman/templates/site/en/listinfo.html which
+  is the sites default English template.
+
+  (bei uns: /var/lib/mailman)
+
+* Seiten, die noch repaircafe look and feel brauchen
+   ** subscribe (wenn man auf abonnieren geklickt hat)
+   ** confirm (Klick auf Link in der Bestätigungsmail)
+   ** options (meine Mitgliedsseite: https://mailing.repaircafe-altdorf.de/mailman/options/helfer/booboo%40gluga.de)
+
 * Newsletter Mailingliste einrichten
 
 * Mailinglisten-Archiv: Umlaute defekt
