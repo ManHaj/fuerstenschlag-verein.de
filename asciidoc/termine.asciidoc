@@ -19,9 +19,6 @@ include::head-area.include[]
 include::../tmp/calendar.include[]
 |===
 
-*Hinweis:* Im August findet kein Repair Café statt: Wir machen
-Sommerpause!
-
 === Newsletter
 
 Sie möchten kein Repair Café mehr verpassen? Dann sollten Sie sich
