@@ -13,6 +13,8 @@ include::head-area.include[]
 
 == Repair Café Altdorf: Termine
 
+Jeweils am letzten Samstag im Monat (außer August und Dezember).
+
 [options="header,autowidth"]
 |===
 |Datum|Beschreibung|Ort
