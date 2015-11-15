@@ -1,4 +1,4 @@
-* gitosis fixen: Manfred darf nicht lesen
+* gitosis fixen: Manfred darf nicht lesen; einrichten Keys bei Manfred
 
 * Seiten, die noch repaircafe look and feel brauchen
    ** subscribe (wenn man auf abonnieren geklickt hat)
