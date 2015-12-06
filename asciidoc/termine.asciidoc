@@ -13,7 +13,7 @@ include::head-area.include[]
 
 == Repair Café Altdorf: Termine
 
-Jeweils am letzten Samstag im Monat (außer August und Dezember).
+Jeweils am letzten Samstag im Monat (außer August und Dezember) von 14:00 bis 17:30. Annahmeschluss ist 16:00 Uhr.
 
 [options="header,autowidth"]
 |===
