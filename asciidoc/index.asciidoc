@@ -10,17 +10,17 @@
 
 include::head-area.include[]
 
-image::selber_machen_980px.jpg["Selbst ist die Frau!",width="100%"]
+image::muelltonne_mit_weihnachtsschmuck.jpg["Frohe Weihnachten!",width="40%"]
 
 == Repair Café Altdorf bei Nürnberg
 
-Was macht man mit einem Staubsauger, der nicht mehr saugt? Mit
-einem Toaster, der nicht mehr toastet? Einem PC, der nur noch brummt?
+Wir wünschen allen von uns reparierten Geräten und
+ihren Besitzern ein ruhiges Weihnachtsfest, ein friedliches und gesundes
+Jahr 2016, und den reparierten Sachen noch eine recht lange Nutzungsdauer!
 
-*Wegwerfen? Denkste!*
-
-Kommen Sie ins RepairCafé Altdorf und reparieren Sie es wieder!
-Wir zeigen Ihnen, wie das geht.
+Das Team macht zwischen den Jahren auch eine kleine Pause 
+und deshalb entfällt der Dezember-Termin.
+Wenn Sie wollen, sehen wir uns Ende Januar wieder.
 
 === Nächstes Repair Café
 
