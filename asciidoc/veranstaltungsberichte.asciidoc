@@ -12,8 +12,8 @@ Berichte, Veranstaltungen
 include::head-area.include[]
 
 == 16.12.2015: Artikel aus Neumarkter Rundschau vom 16. Dezember 2015
-image::Neumarkter_Rundschau_Aus-Alt-mach-Neu_2015_12_16-page1.png["1.Teil Artikel aus Neumarkter Rundschau vom 16.12.2015",width="100%"]
-image::Neumarkter_Rundschau_Aus-Alt-mach-Neu_2015_12_16-page2.png["2. Teil Artikel aus Neumarkter Rundschau vom 16.12.2015",width="100%"]
+image::Neumarkter_Rundschau_Aus-Alt-mach-Neu_2015_12_16-page1.jpg["1.Teil Artikel aus Neumarkter Rundschau vom 16.12.2015",width="100%"]
+image::Neumarkter_Rundschau_Aus-Alt-mach-Neu_2015_12_16-page2.jpg["2. Teil Artikel aus Neumarkter Rundschau vom 16.12.2015",width="100%"]
 
 == 27.06.2015: 80 Mal Nutzungsdauer verlängert
 
