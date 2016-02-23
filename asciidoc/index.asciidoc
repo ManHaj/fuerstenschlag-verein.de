@@ -10,17 +10,14 @@
 
 include::head-area.include[]
 
-image::muelltonne_mit_weihnachtsschmuck.jpg["Frohe Weihnachten!",width="40%"]
+image::muelltonne_mit_ostergruss.jpg["Frohe Ostern!",width="40%"]
 
 == Repair Café Altdorf bei Nürnberg
 
-Wir wünschen allen von uns reparierten Geräten und
-ihren Besitzern ein ruhiges Weihnachtsfest, ein friedliches und gesundes
-Jahr 2016, und den reparierten Sachen noch eine recht lange Nutzungsdauer!
+Wir wünschen eine glückliche und fröhliche Osterzeit und freuen uns auf Ihren Besuch im Repair-Café Altdorf
 
-Das Team macht zwischen den Jahren auch eine kleine Pause 
-und deshalb entfällt der Dezember-Termin.
-Wenn Sie wollen, sehen wir uns 2016 Ende Januar wieder.
+Das Team macht in den Osterferien Pause und deshalb entfällt der März-Termin.
+Wenn Sie wollen, sehen wir uns im April zum 1-jährigen Bestehen wieder.
 
 === Nächstes Repair Café
 
