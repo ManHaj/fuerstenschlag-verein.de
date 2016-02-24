@@ -15,6 +15,9 @@ include::head-area.include[]
 
 Jeweils am letzten Samstag im Monat (außer August und Dezember) von 14:00 bis 17:30 Uhr. Annahmeschluss ist 16:00 Uhr.
 
+Im März entfällt das Repair Café, da unser Termin auf Ostersamstag
+fallen würde.
+
 [options="header,autowidth"]
 |===
 |Datum|Beschreibung|Ort
