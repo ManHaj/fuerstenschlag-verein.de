@@ -10,7 +10,7 @@
 
 include::head-area.include[]
 
-image::muelltonne_mit_ostergruss.jpg["Frohe Ostern!",width="40%"]
+image::muelltonne_mit_ostergruss_403px.jpg["Frohe Ostern!",width="40%"]
 
 == Repair Café Altdorf bei Nürnberg
 
