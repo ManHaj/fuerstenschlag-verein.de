@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://www.repaircafe-altdorf.de/sitemap.xml
+Sitemap: https://repaircafe-altdorf.de/sitemap.xml
