@@ -65,7 +65,7 @@ Egal ob die Kalender-App am Smartphone oder Tablet, ob
 Thunderbird/Sunbird am PC oder eine andere Kalender-Software:
 Termine im iCal Format kann aktuell fast jeder nutzen. Deshalb stellen
 wir die o. g. Termine auch im iCal-Format zur Verfügung: +
-http://www.repaircafe-altdorf.de/calendar.ics
+https://www.repaircafe-altdorf.de/calendar.ics
 
 .Wichtig:
 WARNING: Nach Möglichkeit sollte die ICAL-Datei nicht einfach
