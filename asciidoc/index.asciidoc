@@ -10,14 +10,12 @@
 
 include::head-area.include[]
 
-image::muelltonne_mit_ostergruss_403px.jpg["Frohe Ostern!",width="40%"]
+image::muelltonne.jpg["Unser Logo",width="20%"]
 
 == Repair Café Altdorf bei Nürnberg
 
-Wir wünschen eine glückliche und fröhliche Osterzeit und freuen uns auf Ihren Besuch im Repair-Café Altdorf
+Wir freuen uns auf Ihren Besuch im Repair-Café Altdorf
 
-Das Team macht in den Osterferien Pause und deshalb entfällt der März-Termin.
-Wenn Sie wollen, sehen wir uns im April zum 1-jährigen Bestehen wieder.
 
 === Nächstes Repair Café
 
