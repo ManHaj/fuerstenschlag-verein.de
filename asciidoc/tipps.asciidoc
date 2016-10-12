@@ -1,0 +1,40 @@
+= Repair Café Altdorf: Tipps und Tricks
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Repair Cafe, Altdorf, Nürnberg, Tipps, Tricks
+:description: Repair Cafe in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Repair Café Altdorf: Tipps und Tricks
+
+In der Rubrik Tipps und Tricks veröffentlichen wir in loser
+Folge clevere Ideen, die unseren Reparateuren in der Praxis begegnen
+und von denen wir glauben, dass sie auch für Andere hilfreich sein könnten.
+
+== Kabelbox
+
+image::kabelbox_340px.jpg["Kabelbox für kleine Kabel",float="right"]
+
+Wer einen Computer hat, hat in der Regel auch viele kleine Kabel mit
+den unterschiedlichsten Anschlüssen herumliegen. Diese kann man in
+den Innenrollen vom Toilettenpapier übersichtlich aufbewahren. Mit
+einem Blick findet man das Kabel, dass man gerade braucht, und muss
+nicht lange in der Kabelkiste oder sonst wo rumsuchen.
+
+Dieser Tipp wurde in den Tiefen des Internet gefunden. Empfehlung: In die
+https://www.startpage.com/do/search?language=german&cat=web&query=Upcycling[Suchmaschine
+„Upcycling“] eingeben, stöbern und staunen, was es da
+alles an Anregungen gibt.
+
+== Weitere clevere Lösungen gesucht
+
+Haben auch Sie eine kleine, kreative Selbstbau-Lösung für ein
+Alltagsproblem?
+
+Lassen Sie uns davon wissen:
+Info@RepairCafe-Altdorf.de (idealerweise mit Foto)
