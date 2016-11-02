@@ -1,0 +1,23 @@
+= Fürstenschlagverein Altdorf: Galerie
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein, +
+Berichte, Veranstaltungen
+:description: Veranstaltungsberichte Fürstenschlagverein in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Fürstenschlagverein Altdorf: Galerie
+
+
+=== Frühjahrsputz 2015:
+Frühjahrsputz am 24.04.2015. Mit dem Dreck hielt es sich diesmal in Grenzen.
+
+=== Nikolausfeier 2014: 
+Bilder von der alljährlichen Nikolausfeier am Fürstenschlag-Spielplatz.
+
+
