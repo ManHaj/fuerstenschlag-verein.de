@@ -55,7 +55,7 @@ do
     echo "   creating $HTMLDIR/$DESTDIR/$BASENAME.html"
     asciidoc -b xhtml11 -o $HTMLDIR/$DESTDIR/$BASENAME.html $FILE
     echo "    <url>" >> $TMP_SITEMAP
-    echo "        <loc>http://www.repaircafe-altdorf.de/$BASENAME.html</loc>" >> $TMP_SITEMAP
+    echo "        <loc>http://www.fuerstenschlag-verein.de/$BASENAME.html</loc>" >> $TMP_SITEMAP
     echo "        <lastmod>$MTIME</lastmod>" >> $TMP_SITEMAP
     echo "    </url>" >> $TMP_SITEMAP
 done
