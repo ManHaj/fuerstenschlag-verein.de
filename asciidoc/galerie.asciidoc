@@ -1,7 +1,7 @@
 = Fürstenschlagverein Altdorf: Galerie
 :linkcss:
 :stylesdir: styles
-:disable-javascript:
+:enable-javascript:
 :docinfo1:
 :icons:
 :imagesdir: images

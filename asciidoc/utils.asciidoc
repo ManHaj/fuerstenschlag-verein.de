@@ -18,14 +18,14 @@ In der Rubrik Nützliches finden Sie
 Der Aufnahmeantrag ist bei einem der Vorstandsmitglieder abzugeben
 
 
-- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/geraeteliste2014.pdf[Geräteliste des Fürstenschlagvereins - Stand April 2014 (.p- - df Datei)]
+- link:downloads/geraeteliste2014.pdf[Geräteliste des Fürstenschlagvereins - Stand April 2014 (.p- - df Datei)]
 
 
-- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/Satzung.pdf[Vereins-Satzung des Fürstenschlagvereins (.pdf Datei)]
+- link:downloads/Satzung.pdf[Vereins-Satzung des Fürstenschlagvereins (.pdf Datei)]
 
 
-- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/Herzinfarkt_und_Schlaganfall.pdf[Informationen zur Früherkennung von Herzinfakt und Schlaganfall (.pdf Datei)]
+- link:downloads/Herzinfarkt_und_Schlaganfall.pdf[Informationen zur Früherkennung von Herzinfakt und Schlaganfall (.pdf Datei)]
 
 
-- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/WLGHeizkostenabrechnung.ppt[Infos zur Heizkostenabrechnung der WLG (PowerPoint)]
+- link:downloads/WLGHeizkostenabrechnung.ppt[Infos zur Heizkostenabrechnung der WLG (PowerPoint)]
 
