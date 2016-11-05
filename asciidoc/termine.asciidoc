@@ -1,82 +1,19 @@
-= Repair Café Altdorf: Termine
+= Fürstenschlagverein Altdorf: Termine
 :linkcss:
 :stylesdir: styles
 :disable-javascript:
 :docinfo1:
 :icons:
 :imagesdir: images
-:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
-:description: Repair Cafe in Altdorf bei Nürnberg
+:keywords: Fürstenschlagverein, Altdorf, Nürnberg, Vorstadtverein
+:description: Fürstenschlagverein in Altdorf bei Nürnberg
 
 include::head-area.include[]
 
 
-== Repair Café Altdorf: Termine
+== Fürstenschlagverein Altdorf: Termine
 
-Jeweils am letzten Samstag im Monat (außer August und Dezember) von 14:00 bis 17:30 Uhr. Annahmeschluss ist 16:00 Uhr.
-
-Im August machen wir Urlaub und somit gibt es da auch kein Repair Café.
-
-[options="header,autowidth"]
-|===
-|Datum|Beschreibung|Ort
-include::../tmp/calendar.include[]
-|===
-
-=== Newsletter
-
-Sie möchten kein Repair Café mehr verpassen? Dann sollten Sie sich
-ganz einfach für unseren
-link:https://mailing.repaircafe-altdorf.de/mailman/listinfo/newsletter[Newsletter
-anmelden]. Damit erhalten Sie aktuelle Infos immer als erstes ganz bequem
-in Ihr eMail Postfach.
-
-== Veranstaltungsorte
-
-=== Kindercafé KAKAU
-
-Röderstraße 5 +
-90518 Altdorf
-
-Zugang von der Ohmstraße aus
-
-link:http://www.openstreetmap.org/?mlat=49.38668&mlon=11.3521&zoom=18#map=18/49.38675/11.35404[Anfahrt
-(OpenStreetMap)]
-
-Webseite
-link:http://www.jugendhilfe-rummelsberg.de/jugendhilfe_nuernberger_land_kinderkaffee.jugendhilfe[Kindercafé
-KAKAU]
-
-////
-=== Schulungsraum Rotes Kreuz
-
-Feuerweg 4 +
-90518 Altdorf
-
-link:http://www.openstreetmap.org/?mlat=49.38360&mlon=11.3515&zoom=18#map=18/49.38486/11.35207[Anfahrt
-(OpenStreetMap)]
-////
+=== Nikolausfeier am 9. Dezember 2016 um 17:00
 
 
-== Alle Termine im iCal Format
 
-Egal ob die Kalender-App am Smartphone oder Tablet, ob
-Thunderbird/Sunbird am PC oder eine andere Kalender-Software:
-Termine im iCal Format kann aktuell fast jeder nutzen. Deshalb stellen
-wir die o. g. Termine auch im iCal-Format zur Verfügung: +
-https://www.repaircafe-altdorf.de/calendar.ics
-
-.Wichtig:
-WARNING: Nach Möglichkeit sollte die ICAL-Datei nicht einfach
-importiert werden, denn der Import ist ein einmaliger Vorgang.
-Aktualisierungen bekommt die Software oder App dann nicht mit. +
- +
-Stattdessen sollte die ICAL-Datei als eigener Kalender eingebunden
-werden. Eine Schritt-für-Schritt-Anleitung dafür gibt es bei der Gluga
-unter http://wiki.gluga.de/ical-howto.html +
-Es ist natürlich unsere Kalender-URL
-(http://www.repaircafe-altdorf.de/calendar.ics) einzutragen. Die
-Anleitung spricht von Icedove/Iceowl, diese beiden Produkte sind
-funktionsgleich zu Thunderbird/Sunbird. Bei einer andere
-Kalender-Software bzw. bei den verschiedenen Apps ist das Vorgehen
-meist sehr ähnlich.

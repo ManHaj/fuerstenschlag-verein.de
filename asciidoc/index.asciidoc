@@ -1,47 +1,21 @@
-= Repair Café Altdorf bei Nürnberg
+= Fürstenschlagverein Altdorf
 :linkcss:
 :stylesdir: styles
 :disable-javascript:
 :docinfo1:
 :icons:
 :imagesdir: images
-:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
-:description: Repair Cafe in Altdorf bei Nürnberg
+:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein
+:description: Fürstenschlagverein Altdorf bei Nürnberg
 
 include::head-area.include[]
 
-image::muelltonne.jpg["Unser Logo",width="20%"]
+== Der Vorstand begrüßt Sie auf unserer Homepage
+image::fuerstenschlagverein_vorstand.jpg["Unser Vorstand",width="50%"]
 
-== Repair Café Altdorf bei Nürnberg
+=== Unser nächster Termin
 
-Wir freuen uns auf Ihren Besuch im Repair-Café Altdorf
+==== Nikolausfeier am Freitag, den 9. Dezember im Fürstenschlag
 
+- siehe auch link:termine.html[Termine]
 
-=== Nächstes Repair Café
-
-include::../tmp/calendar.include.latest[]
-- siehe link:termine.html[Termine]
-
-=== Was ist ein Repair Café?
-
-Repair Café ist ein Reparatur-Treff bei dem Sie Menschen treffen, die
-sich zusammen mit Ihnen um Ihre defekten Sachen kümmern.
-Ehrenamtliche Reparatur-Experten helfen den Besuchern, so viel wie
-möglich selbst an den mitgebrachten Gegenständen wieder in Ordnung zu
-bringen.
-
-Wer nichts zu reparieren hat, kann auch einfach mal auf eine Tasse
-Kaffee vorbeischauen und sich umsehen, was man alles wieder zum Leben
-erwecken kann! Reparaturhelfer werden auch sicher nicht nach Hause
-geschickt!
-
-=== Warum machen wir das?
-
-[quote, repaircafe@gabriele-henkel.de]
-____
-Wir möchten der Wegwerfmentalität etwas entgegensetzen. Damit
-wollen wir nicht nur unsere Müllberge verkleinern, sondern auch
-zeigen, wie sich mit unserer Umwelt auch schonender umgehen lässt.
-Dass sich dabei auch die Gelegenheit zu Begegnungen, Inspirationen
-und Austausch mit Gleichgesinnten ergibt, ist durchaus gewollt!
-____

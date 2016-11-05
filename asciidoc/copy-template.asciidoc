@@ -1,12 +1,12 @@
-= Repair Café Altdorf: Thema
+= Fürstenschlagverein Altdorf: Thema
 :linkcss:
 :stylesdir: styles
 :disable-javascript:
 :docinfo1:
 :icons:
 :imagesdir: images
-:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
-:description: Repair Cafe in Altdorf bei Nürnberg
+:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein
+:description: Fürstenschlagverein in Altdorf bei Nürnberg
 
 include::head-area.include[]
 

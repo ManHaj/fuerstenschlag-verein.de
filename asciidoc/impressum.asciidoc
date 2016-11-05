@@ -1,23 +1,22 @@
-= Repair Café Altdorf bei Nürnberg
+= Fürstenschlagverein Altdorf bei Nürnberg
 :linkcss:
 :stylesdir: styles
 :disable-javascript:
 :docinfo1:
 :icons:
 :imagesdir: images
-:keywords: Repair Cafe, Altdorf, Nürnberg, reparieren, wegwerfen
-:description: Repair Cafe in Altdorf bei Nürnberg
+:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein
+:description: Fürstenschlagverein in Altdorf bei Nürnberg
 
 include::head-area.include[]
 
-== Repair Café Altdorf: Impressum
+== Fürstenschlagverein Altdorf: Impressum
 
-Werner Birn +
-Badener Straße 68 +
+Manfred Hajek +
+Pfälzer Straße 15 +
 90518 Altdorf
 
-Tel.: 09187-2673 +
-E-Mail: Info@RepairCafe-Altdorf.de
+E-Mail: info@fuerstenschlag-verein.de
 
 == Haftungsausschluss
 

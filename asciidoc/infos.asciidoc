@@ -14,3 +14,16 @@ include::head-area.include[]
 
 Rundschreiben in zeitlicher Reihenfolge
 
+++++
+		<div align="left">
+			<p><a href ="downloads/nikolaus2013.pdf" >Einladung zur Nikolausfeier 2013</a></p>
+			<p><a href ="downloads/Rundschreiben_2012_01_25.pdf ">Rundschreiben vom 25.01.2012 (.pdf Datei)</a></p>
+			<p><a href ="downloads/Rundschreiben_2011_07_14.pdf ">Rundschreiben vom 14.07.2011 (.pdf Datei)</a></p>
+			<p><a href ="downloads/Rundschreiben_2011_03_16.pdf ">Rundschreiben vom 16.03.2011 (.pdf Datei)</a></p>
+			<p><a href ="downloads/Rundschreiben_2011_01_27.pdf ">Rundschreiben vom 27.01.2011 (.pdf Datei)</a></p>
+			<p><a href ="downloads/Rundschreiben_2010_05_25.pdf ">Rundschreiben vom 25.05.2010 (.pdf Datei)</a></p>
+			<p><a href ="downloads/Rundschreiben_2010_04_21.pdf">Rundschreiben der JHV vom 21.04.2010 (.pdf Datei)</a></p>
+			<p><a href ="downloads/Rundschreiben_2010_02_20.pdf">Rundschreiben vom 20.02.2010 (.pdf Datei)</a></p>
+			</div>
+
+++++
