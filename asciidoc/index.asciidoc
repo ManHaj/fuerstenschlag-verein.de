@@ -10,12 +10,36 @@
 
 include::head-area.include[]
 
-== Der Vorstand begrüßt Sie auf unserer Homepage
-image::fuerstenschlagverein_vorstand.jpg["Unser Vorstand",width="50%"]
+[green big]*Homepage des Fürstenschlag-Vereins Altdorf e.V.*
 
-=== Unser nächster Termin
+//image::fuerstenschlagverein_vorstand.jpg["Unser Vorstand",width="40%",float="left"] 
+//und hier soll der Text weitergehen
+++++
+<img class="links" src="images/fuerstenschlagverein_vorstand.jpg" width="50%" border="0" alt="Unser Vorstand">
 
-==== Nikolausfeier am Freitag, den 9. Dezember im Fürstenschlag
+<p>Unser Verein vertritt die Interessen des Stadtteils Fürstenschlag und seiner Bewohner gegenüber der Stadt Altdorf. 
+Wir verstehen uns als Ansprechpartner für die Belange der Bewohner des Fürstenschlags und möchte besonders die Gemeinschaft untereinander fördern. </p>
+<p>Dazu veranstalten wir Sommerfeste, interessante Busausflüge und Wanderungen. Dank unserer guten Kontakte kommt auch 
+<a href="galerie.html#nikolaus17" target="_blank"> jedes Jahr der Nikolaus </a> zu unseren Kindern. 
+Wir kümmern uns auch um praktische Belange. So verfügt der Verein über <a href="downloads/Geraeteliste_aktuell.pdf" target="_blank">Gerätschaften 
+für Haus und Garten</a>, die wir gerne an Mitglieder verleihen. Wir organisieren den jährlichen gemeinsamen Frühjahrsputz der Gehwege und Spielplätze.</p>
+<p>Weitere Informationen über unserer Aktivitäten finden Sie in <a href="downloads/Flyer_Fuerstenschlagverein-Altdorf.pdf" target=_blank">unserer Info-Broschüre.</a></p></p>
+++++
 
-- siehe auch link:termine.html[Termine]
+=== Liebe Vereinsmitglieder und Freunde des Fürstenschlagvereins ===
 
+
+Nach mehr als zwei Jahren konnten wir endlich am 30. Mai 2022 wieder eine 
+link:downloads/Einladung_zur_JHV_2022.pdf[*Jahreshauptversammlung im Sportpark*] durchführen. Dabei wurde auch ein neuer Vorstand gewählt. +
+Nachdem unser langjähriger 1. Vorstand Reiner Graf aus gesundheitlichen Gründen nicht mehr kandidierte, wurde sein bisheriger Stellverteter Herr Manfred Hajek zum neuen Vorsitzenden gewählt. +
+Als Stellvertreterin des 1. Vorstands wurde Frau Gabi Wyczisk gewählt. Neu hinzugekommen in den Vorstand ist Herr Hans Kerschensteiner und Herr Bastian Birn.
+
+=== weitere Informationen ===
+++++
+<p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="termine.html">Termine</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="downloads/Rundschreiben_2022_11_09.pdf" target="_blank"><strong>neuestes Rundschreiben</strong></a></p>
+++++
+
+*WICHTIG: Alle Termine stehen weiterhin unter Corona-Vorbehalt!*
+Über Änderungen informieren wir Sie zeitnah auf dieser Seite, in den Vereinsnachrichten des Boten und in unseren Schaukästen an der Ecke Zöller- Frankenstraße und am Garagenhof in der Badener Str. +
+Am einfachsten ist, *Sie melden sich bei link:kontakt.html[unserem Newsletter] an, dann verpassen Sie nichts!*
