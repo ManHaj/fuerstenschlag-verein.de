@@ -11,9 +11,12 @@
 include::head-area.include[]
 
 
-== Fürstenschlagverein Altdorf: Termine
-
-=== Nikolausfeier am 9. Dezember 2016 um 17:00
-
-
-
+=== [red]*Achtung! Alle Termine stehen weiterhin unter Corona-Vorbehalt!*
+////
+- Sonntag, den 24. Juli: Weißwurstessen im Garagenhof
+- Samstag, den 20. August: Fahrt zur Landesausstellung "Typisch Franken"
+- Freitag, den 9. Dezember: Nikolausfeier am Kinderspielplatz
+////
+++++
+<p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Einladung_Nikolausfeier2022.pdf" target="_blank"><strong>Freitag, den 9. Dezember: Nikolausfeier im Fürstenschlag</strong></a></p>
+++++
