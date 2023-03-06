@@ -12,13 +12,50 @@ include::head-area.include[]
 
 == Fürstenschlagverein Altdorf: Kontakt
 
+=== Unser Newsletter
+++++
+<form action="https://ml.kundenserver.de/cgi-bin/mailinglist.cgi" method="POST" target="_blank">
+  <input checked name="subscribe_r" type="radio" value="subscribe">
+  Ja, ich möchte mich auf die Mailingliste newsletter@fuerstenschlag-verein.de.
+  <br />
+  <input name="subscribe_r" type="radio" value="unsubscribe">
+  Bitte streichen Sie mich wieder von der Mailingliste newsletter@fuerstenschlag-verein.de.
+  <br />
+  Geben Sie Ihre E-Mail-Adresse ein:
+  <br />
+  <input maxlength="51" name="mailaccount_r" size="51" type="text">
+  <br />
+  Wiederholen Sie die eingegebene E-Mail-Adresse:
+  <br />
+  <input maxlength="51" name="mailaccount2_r" size="51" type="text">
+  <br />
+  <input type="SUBMIT" value="Absenden">
+  <br />
+  <input type="RESET" value="Zurücksetzen">
+  <hr />
+  <input name="FBMLNAME" type="hidden" value="newsletter@fuerstenschlag-verein.de">
+  <br />
+  <input name="FBLANG" type="hidden" value="de">
+  <br />
+  <input name="FBURLERROR_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/error.de.html">
+  <br />
+  <input name="FBURLSUBSCRIBE_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/subscribe.de.html">
+  <br />
+  <input name="FBURLUNSUBSCRIBE_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/unsubscribe.de.html">
+  <br />
+  <input name="FBURLINVALID_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/invalid.de.html">
+</form>
+++++
+==== wichtiger Hinweis: Damit der Newsletter auch an Sie verschickt wird, müssen Sie Ihre Email-Adresse noch bestätigen!
+Deshalb haben wir an die angegebene Adresse eine Mail geschickt. Bitte öffnen Sie diese und klicken Sie auf dem Bestätigungslink.
+   
 === Bei Fragen bezüglich des Vereins:
 
-Reiner Graf +
-Badener Straße 23 +
+Manfred Hajek +
+Pfälzer Str. 15 +
 90518 Altdorf
 
-Tel.: 09187-2777 +
+Tel.: 09187-902492 +
 EMail: info@fuerstenschlag-verein.de
 
 === Bei Fragen bezüglich dieser Webseite:
@@ -26,4 +63,3 @@ EMail: info@fuerstenschlag-verein.de
 Manfred Hajek
 
 EMail: info@fuerstenschlag-verein.de
-
