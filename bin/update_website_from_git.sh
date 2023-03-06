@@ -5,5 +5,5 @@
 echo "+----------------------------------------------------------------------+"
 echo "| updating web pages from git repo                                     |"
 echo "+----------------------------------------------------------------------+"
-cd /opt/web/http_www.repaircafe-altdorf.de/git/repaircafe-altdorf.de/ && git pull && /opt/web/http_www.repaircafe-altdorf.de/git/repaircafe-altdorf.de/bin/build.sh
+cd /opt/web/http_www.fuerstenschlag-verein.de/git/fuerstenschlag-verein.de/ && git pull && /opt/web/http_www.fuerstenschlag-verein.de/git/fuerstenschlag-verein.de/bin/build.sh
 echo "------------------------------------------------------------------------"
