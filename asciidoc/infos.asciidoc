@@ -12,18 +12,37 @@ include::head-area.include[]
 
 == Fürstenschlagverein Altdorf: Rundschreiben
 
-=== Rundschreiben in zeitlicher Reihenfolge
-
 ++++
-		<div align="left">
-			<p><a href ="downloads/nikolaus2013.pdf" >Einladung zur Nikolausfeier 2013</a></p>
-			<p><a href ="downloads/Rundschreiben_2012_01_25.pdf ">Rundschreiben vom 25.01.2012 (.pdf Datei)</a></p>
-			<p><a href ="downloads/Rundschreiben_2011_07_14.pdf ">Rundschreiben vom 14.07.2011 (.pdf Datei)</a></p>
-			<p><a href ="downloads/Rundschreiben_2011_03_16.pdf ">Rundschreiben vom 16.03.2011 (.pdf Datei)</a></p>
-			<p><a href ="downloads/Rundschreiben_2011_01_27.pdf ">Rundschreiben vom 27.01.2011 (.pdf Datei)</a></p>
-			<p><a href ="downloads/Rundschreiben_2010_05_25.pdf ">Rundschreiben vom 25.05.2010 (.pdf Datei)</a></p>
-			<p><a href ="downloads/Rundschreiben_2010_04_21.pdf">Rundschreiben der JHV vom 21.04.2010 (.pdf Datei)</a></p>
-			<p><a href ="downloads/Rundschreiben_2010_02_20.pdf">Rundschreiben vom 20.02.2010 (.pdf Datei)</a></p>
-			</div>
-
+<a href="downloads/Rundschreiben_2022_11_09.pdf" target="_blank"><strong>Neuestes Rundschreiben vom November 2022</strong></a><br />
 ++++
+
+=== Unser Newsletter
+wenn Sie künftig unsere Rundschreiben und Infos auch per Email erhalten wollen, *melden Sie sich bei link:kontakt.html[unserem Newsletter] an.
+
+
+=== ältere Rundschreiben in zeitlicher Reihenfolge
+
+- link:downloads/Rundschreiben_2022_11_09.pdf[Rundschreiben November 2022]
+- link:downloads/Einladung_Nikolausfeier2022.pdf[Einladung zur Nikolausfeier am 9. Dezember 2022]
+- link:downloads/Frankenaustellung_Ansbach_2022.pdf[Einladung Landesausstellung "Typisch Franken?" am 20. August 2022]
+- link:downloads/Rundschreiben_2022_07_02.pdf[Rundschreiben Juli 2022]
+- link:downloads/Einladung_Weißwurstessen_2022_07_24.pdf[Einladung zum Weißwurstessen im Garagenhof am 24. Juli 2022]
+- link:downloads/Rundschreiben_2022_05_02.pdf[Rundschreiben Mai 2022]
+- link:downloads/Einladung_zur_JHV_2022.pdf[Einladung zur Jahreshauptversammlung am 30. Mai 2022]
+- link:downloads/Rundschreiben_Energie_2022_03_02.pdf[Rundschreiben zur Energiewende]
+- link:downloads/Rundschreiben_2022_03_02.pdf[Rundschreiben März 2022]
+- link:downloads/Rundschreiben_2021_11_10.pdf[Rundschreiben November 2021]
+- link:downloads/Einladung_zur_JHV_2021.pdf[Einladung zur Jahreshauptversammlung 2021]
+- link:downloads/Rundschreiben_2021_09_10.pdf[Rundschreiben September 2021]
+- link:downloads/Herbstfahrt_2021.pdf[Einladung zur Herbstfahrt 2021 nach Ansbach]
+- link:downloads/Rundschreiben_2021_07_10.pdf[Rundschreiben Juli 2021]
+- link:downloads/Rundschreiben_2021_05_25.pdf[Rundschreiben Mai 2021]
+- link:downloads/Rundschreiben_2021_03_20.pdf[Rundschreiben März 2021]
+- link:downloads/Rundschreiben_2020_12_12.pdf[Rundschreiben Dezember 2020]
+- link:downloads/Rundschreiben_2020_11_01.pdf[Rundschreiben November 2020]
+- link:downloads/Rundschreiben_2020_07_20.pdf[Rundschreiben Juli 2020]
+- link:downloads/Fragebogen_zu_Veranstaltungen_2020.pdf[Fragebogen zum Rundschreiben Juli 2020]
+- link:downloads/Rundschreiben_2020_03.pdf[Rundschreiben März 2020]
+- link:downloads/Rundschreiben_2020_03.pdf[Einladung zur Jahreshauptversammlung am 22. April 2020]
+- link:downloads/Ausflug_Fruehjahr_2020.pdf[Einladung zur Frühjahrsfahrt 2020 nach Zwickau]
+- link:downloads/Strassenkreuzer_Stadtführung_Nürnberg_2020.pdf[Einladung zur alternativen Stadtführung in Nürnberg]
