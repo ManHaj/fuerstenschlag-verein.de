@@ -11,21 +11,28 @@
 include::head-area.include[]
 
 == Fürstenschlagverein Altdorf: Nützliches
-
 In der Rubrik Nützliches finden Sie
 
-- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/Beitrittserklaerung_SEPA.pdf[Beitrittserklärung mit SEPA-Anhang (.pdf Datei)]
-Der Aufnahmeantrag ist bei einem der Vorstandsmitglieder abzugeben
+++++
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Aufnahmeunterlagen_komplett.pdf" target="_blank">Beitrittserklärung, SEPA-Anhang und Datenschutzerklärung (.pdf Datei)</a>
+<p style="margin-left:30px">Die Beitritts-, die Datenschutzerklärung (und ggf.das SEPA Lastschriftmandat) sind unterschrieben bei einem der Vorstandsmitglieder abzugeben</p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Geraeteliste_aktuell.pdf" target="_blank">aktuelle_Geräteliste_des_Fürstenschlagvereins</a><br/><br/>
 
-- link:downloads/geraeteliste2014.pdf[Geräteliste des Fürstenschlagvereins - Stand April 2014 (.p- - df Datei)]
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Flyer_Fuerstenschlagverein-Altdorf.pdf" target="_blank">Flyer des Fürstenschlagvereins (.pdf Datei)</a><br/><br/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/WLGHeizkostenabrechnung.pdf" target="_blank">Infos zur Heizkostenabrechnung der WLG (.pdf Datei)</a><br/><br/>
 
-- link:downloads/Satzung.pdf[Vereins-Satzung des Fürstenschlagvereins (.pdf Datei)]
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Info_zum_Stromtarif_A-PLUS-vereint.pdf" target="_blank">Infos zum Stromtarif "A-PLUS vereint" (.pdf Datei)</a><br/><br/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Stromlieferungsvertrag_A-PLUS_vereint_ohne_Preisblatt.pdf" target="_blank">Stromlieferungsvetrag "A-Plus vereint" (.pdf Datei)</a>
+<p style="margin-left:30px">Vetrag ausdrucken, ausfüllen, unterschreiben und vor der Abgabe bei den Stadtwerken vom Vereinsvorstand die Mitgliedschaft bestätigen lassen.</p>
 
-- link:downloads/Herzinfarkt_und_Schlaganfall.pdf[Informationen zur Früherkennung von Herzinfakt und Schlaganfall (.pdf Datei)]
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/WLG-Senderliste-TV.pdf" target="_blank">WLG Senderliste Fernsehen (.pdf Datei)</a><br/><br/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/WLG-Senderliste-Radio.pdf" target="_blank">WLG Senderliste Radio (.pf Datei)</a><br/><br/>
 
-- link:downloads/WLGHeizkostenabrechnung.ppt[Infos zur Heizkostenabrechnung der WLG (PowerPoint)]
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Herzinfarkt_und_Schlaganfall.pdf" target="_blank">Informationen zur Früherkennung von Herzinfakt und Schlaganfall (.pdf Datei)</a><br/><br/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Satzung.pdf" target="_blank">Vereins-Satzung des Fürstenschlagvereins (.pdf Datei)</a><br/><br/>
+++++
