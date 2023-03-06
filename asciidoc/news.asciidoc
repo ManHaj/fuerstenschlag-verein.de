@@ -5,11 +5,42 @@
 :docinfo1:
 :icons:
 :imagesdir: images
-:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein
+:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein, Hajek
 :description: Fürstenschlagverein in Altdorf bei Nürnberg
 
 include::head-area.include[]
 
 == Fürstenschlagverein Altdorf: Aktuelles
 
+image::spendenscheck_uebergabe.jpg["Übergabe des Spendenschecks",width="60%"]
+
+=== Übergabe eines Spendenschecks von den Stadtwerken Altdorf
+
+Liebe Mitglieder und Freunde des Fürstenschlagvereins,
+
+heute dürfen wir Ihnen sehr erfreuliche Neuigkeiten überbringen:
+
+Viele Mitglieder haben sich im vergangenen Jahr für den neuen *Stromtarif der Stadtwerke Altdorf "A-PLUS vereint"* entschieden.
+Die Besonderheit dieses Angebotes lag in der Verbindung von Strombezug und der Mitgliedschaft in einem Altdorfer Verein. Die Stadtwerke unterstützen mit jeder von Ihnen verbrauchten Kilowattstunde (kWh) den verbundenen Verein mit einem Cent. Klingt nicht viel, ist aber durch die große Anzahl der Abnehmer für unseren Verein zu einem erklecklichen Sümmchen geworden!
+
+Am Montag, den 19. September fand im Rathaus im Beisein unseres Bürgermeisters (selbstverständlich auch Mitglied in unserem Verein) die Übergabe der Spendenschecks an die teilnehmenden Altdorfer Vereine statt.
+Übergabe der Spendenschecks der Stadtwerke Altdorf
+
+Mit großer Freude konnte der Fürstenschlagverein dank Ihrer Strom-Verträge den dicksten *Scheck in Höhe von 1.610 Euro* einheimsen!
+
+Unser Dank gilt an dieser Stelle nicht nur den Stadtwerken Altdorf, sondern auch Ihnen, die sich bei diesem Angebot der SWA auch für uns als Fürstenschlagverein entschieden haben.
+
+Wir haben uns über die Verwendung dieses Geld schon ein paar Gedanken gemacht. So wollen wir für den Weg zum Edeka-Markt eine Ruhebank spendieren, um auch den weniger beweglichen Bewohnern des Fürstenschlags ein bisschen Bequemlichkeit auf dem Einkaufsweg zu bieten.
+Über die weitere Verwendung werden wir im Vorstand noch diskutieren und wir halten Sie selbstverständlich am Laufenden!
+
+Nachdem die Steigerung der Energiepreise in der Öffentlichkeit heiß diskutiert und teilweise wahre Horrorgeschichten kursieren (was für den Gasmarkt teilweise auch stimmt) habe ich mich bei der Übergabe mit den leitenden Herren der Stadtwerke unterhalten und mich über die zu erwartenden Steigerungen beim Strompreis erkundigt. Dass es zum Jahreswechsel eine Erhöung geben wird, ist leider nicht zu vermeiden. Über die Höhe ist noch nicht entschieden. Bis Mitte November werden die Stadtwerke eine entsprechende Information an die Verbraucher herausgeben. Ich konnte Herrn Stemmer (Leiter der SWA) aber zumindest die Aussage entlocken, dass sich der neuen Preis irgenwo zwischen 40 und 50 Cent pro Kilowattstunde bewegen wird. Das wäre zwar auch schon eine deutliche Erhöhung im 2stelligen Prozentbereich, bleibt aber auf jeden Fall weit entfernt von inzwischen auch schon von anderen Versorgern aufgerufenen Preisen von 1 Euro pro kWh. 
+
+Lassen Sie uns optimistisch bleiben und überlegen wir gemeinsam, wo wir Energie einsparen können um auf diese Weise zum einen der Umwelt etwas Gutes tun und zum anderen unsere Energiekosten überschaubar halten!
+Bleiben Sie gesund und alles Gute
+
+wünscht Ihnen Ihr Fürstenschlagverein
+mit freundlichen Grüßen
+
+Manfred Hajek
+(1. Vorsitzender)
 
