@@ -11,9 +11,29 @@ Berichte, Veranstaltungen
 
 include::head-area.include[]
 
-== Fürstenschlagverein Altdorf: Galerie
+==        Fürstenschlagverein Altdorf: Galerie
 
+== 2019
+=== Frühjahrsfahrt des Fürstenschagvereins zum Kloster Maulbronn und nach Bad Wimpfen
+Den traditionellen Früjahrsausflug des Fürstenschlages führte Manfred Pfeiffer als Organisator
+zunächst zu einem unbekannten aber häufig gesehenen Kloster.
+Das *Kloster Maulbronn* ist nämlich auf der 2 Euro Gedenkmünze des Landes Baden Württemberg zu sehen. 
+Außerdem ist es seit 25 Jahren als Weltkulturerbe bekannt. Die Klosteranlage ist streng genommen 
+eine Klosterstadt mit kleinen Läden, eine Buchhandlung Amtsgericht und Polizeistation. 
+Die Geschichte des Zisterzienserklosters (Abtei) beginnt 1138 als Walter von Lomersheim einem Maulesel 
+den Standort des Klosters wählen hat lassen. Wo heute der Eselsbrunnen steht, fand das Maultier eine Quelle und blieb stehen. 
+Der Ritter beschloss an der Stelle die Klosteranlage zu bauen. +
+Nach einer Führung durch die Klosteranlage ging es weiter nach *Bad Wimpfen*. +
+Kein geringerer als Kaiser Friedrich I. (Barbarossa) ließ die trutzig-wehrhafte Pfalz so erbauen 
+wie sie heute noch in ihrer ganzen Pracht bei einer Panoramafahrt und späteren Führung durch das Burgviertel zu sehen war. 
+Das Burgviertel ist mittlerweile in die mittelalterliche Altstadt Bad Wimpfens eingegliedert. 
+Die Stadt selbst wurde sehr durch die Reformation geprägt und hat viele restaurierte Fachwerkhäuser. 
+Für die Erklärungen über Bad Wimpfen hatten wir örtliche Unterstützung. Selbst ein kurzer Hagelschauer hielt die Teilnehmer 
+nicht davon ab, die interessante Führung bis zum Ende durchzuhalten. +
+Letztlich konnte diese Fahrt nur der Anregung dienen. Alles an einem Tag zu zeigen war natürlich nicht möglich. +
+link:https://photos.app.goo.gl/pdH6EiJPLtZGxxEe7[Bilder der Frühjahrsfahrt 2019 des Fürstenschagvereins]
 
+== Ältere Infos 
 ++++
 
 <script type="text/javascript">
@@ -52,6 +72,21 @@ function OpenPic(bigurl, size)
 
 		<div align="center">
 			<a name="top"></a>
+			
+			<h2>2017</h2>
+			<p>	
+			<a href="#nikolaus17">Nikolausfeier</a> - 
+			<a href="#sommerfest17">Weißwurst-Frühschoppen</a> ---> 			
+			</p>
+			<hr/>
+			
+			<h2>2016</h2>
+			<p>	
+			<a href="#nikolaus16">Nikolausfeier</a> - 
+			<a href="#sommerfest16">Sommerfest</a> ---> 			
+			</p>
+			<hr/>
+			
 			<h2>2015</h2>
 			<p>	
 			<a href="#fruehjahrsputz15">Frühjahrsputz</a> - 
@@ -132,6 +167,79 @@ function OpenPic(bigurl, size)
 			<br>
 			
 			<div align="left"><!--Hier drunter neue adden-->
+
+			<a name="nikolaus17"></a>
+			<br>
+			<h2>Nikolausfeier 2017</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der alljährlichen Nikolausfeier am Fürstenschlag-Spielplatz.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_001.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_001_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_002.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_002_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_003.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_003_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_004.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_004_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_005.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_005_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_006.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_006_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_007.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_007_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_008.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_008_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>						
+			<a name="sommerfest17"></a>
+			<br>
+			<h2>Sommerfest 2017</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder vom Weißwurstfrühschoppen im Sommer im Garagenhof der Pfälzer Straße am 27. Juli 2017</p>
+			<p>Bei bestem Wetter war unser Experiment mit einem sommerlichen Frühschoppen gut besucht und ein Erfolg!</p>
+			<p align="center">		
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_001.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_001_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_002.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_002_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_003.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_003_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_004.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_004_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_005.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_005_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_006.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_006_t.jpg"></a>
+			</p>			
+			<a name="nikolaus16"></a>
+			<br>
+			<h2>Nikolausfeier 2016</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der alljährlichen Nikolausfeier am Fürstenschlag-Spielplatz.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/01.jpg',1);"><img src="gallery/nikolaus16/thumbs/1.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/02.jpg',1);"><img src="gallery/nikolaus16/thumbs/2.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/03.jpg',1);"><img src="gallery/nikolaus16/thumbs/3.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/04.jpg',0);"><img src="gallery/nikolaus16/thumbs/4.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/05.jpg',0);"><img src="gallery/nikolaus16/thumbs/5.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/06.jpg',0);"><img src="gallery/nikolaus16/thumbs/6.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/07.jpg',0);"><img src="gallery/nikolaus16/thumbs/7.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/08.jpg',0);"><img src="gallery/nikolaus16/thumbs/8.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/09.jpg',0);"><img src="gallery/nikolaus16/thumbs/9.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/10.jpg',0);"><img src="gallery/nikolaus16/thumbs/10.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/11.jpg',0);"><img src="gallery/nikolaus16/thumbs/11.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/12.jpg',0);"><img src="gallery/nikolaus16/thumbs/12.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/13.jpg',0);"><img src="gallery/nikolaus16/thumbs/13.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/14.jpg',0);"><img src="gallery/nikolaus16/thumbs/14.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/15.jpg',0);"><img src="gallery/nikolaus16/thumbs/15.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/16.jpg',0);"><img src="gallery/nikolaus16/thumbs/16.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/17.jpg',0);"><img src="gallery/nikolaus16/thumbs/17.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>						
+			<a name="sommerfest16"></a>
+			<br>
+			<h2>Sommerfest 2016</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder vom Sommerfest im Garagenhof der Pfälzer Straße am 29. Juli 2016</p>
+			<p>Bei bestem Wetter war das gemütliche Fest auch dieses Jahr wieder gut besucht und ein Erfolg!</p>
+			<p align="center">		
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/1.jpg',1);"><img src="gallery/sommerfest16/thumbs/1.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/2.jpg',0);"><img src="gallery/sommerfest16/thumbs/2.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/3.jpg',0);"><img src="gallery/sommerfest16/thumbs/3.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/4.jpg',0);"><img src="gallery/sommerfest16/thumbs/4.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/5.jpg',0);"><img src="gallery/sommerfest16/thumbs/5.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/6.jpg',0);"><img src="gallery/sommerfest16/thumbs/6.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/7.jpg',0);"><img src="gallery/sommerfest16/thumbs/7.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/8.jpg',0);"><img src="gallery/sommerfest16/thumbs/8.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>			
 			<a name="nikolaus15"></a>
 			<br>
 			<h2>Nikolausfeier 2015</h2>
