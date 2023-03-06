@@ -15,7 +15,6 @@ do
             echo $FILE: doing syntax check
             asciidoc -o /dev/null $FILE
             RC=$?
-
             if [ $RC -gt 0 ]
             then
                 echo "### $FILE is not in valid asciidoc format. Commit is not possible."
