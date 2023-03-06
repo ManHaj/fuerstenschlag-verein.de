@@ -5,7 +5,7 @@
 :docinfo1:
 :icons:
 :imagesdir: images
-:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein
+:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein, 
 :description: Fürstenschlagverein in Altdorf bei Nürnberg
 
 include::head-area.include[]
