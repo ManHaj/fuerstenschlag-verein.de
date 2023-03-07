@@ -13,7 +13,7 @@ include::head-area.include[]
 == Fürstenschlagverein Altdorf: Rundschreiben
 
 ++++
-<a href="downloads/Rundschreiben_2022_11_09.pdf" target="_blank"><strong>Neuestes Rundschreiben vom November 2022</strong></a><br />
+<a href="downloads/Rundschreiben_2023_02_09.pdf" target="_blank"><strong>Neuestes Rundschreiben vom Februar 2023</strong></a><br />
 ++++
 
 === Unser Newsletter
@@ -22,6 +22,7 @@ wenn Sie künftig unsere Rundschreiben und Infos auch per Email erhalten wollen,
 
 === ältere Rundschreiben in zeitlicher Reihenfolge
 
+- link:downloads/Rundschreiben_2023_02_09.pdf[Rundschreiben Februar 2023]
 - link:downloads/Rundschreiben_2022_11_09.pdf[Rundschreiben November 2022]
 - link:downloads/Einladung_Nikolausfeier2022.pdf[Einladung zur Nikolausfeier am 9. Dezember 2022]
 - link:downloads/Frankenaustellung_Ansbach_2022.pdf[Einladung Landesausstellung "Typisch Franken?" am 20. August 2022]
@@ -46,3 +47,5 @@ wenn Sie künftig unsere Rundschreiben und Infos auch per Email erhalten wollen,
 - link:downloads/Rundschreiben_2020_03.pdf[Einladung zur Jahreshauptversammlung am 22. April 2020]
 - link:downloads/Ausflug_Fruehjahr_2020.pdf[Einladung zur Frühjahrsfahrt 2020 nach Zwickau]
 - link:downloads/Strassenkreuzer_Stadtführung_Nürnberg_2020.pdf[Einladung zur alternativen Stadtführung in Nürnberg]
+
+
