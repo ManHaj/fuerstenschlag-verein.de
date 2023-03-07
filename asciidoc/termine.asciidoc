@@ -11,12 +11,16 @@
 include::head-area.include[]
 
 
+////
 === [red]*Achtung! Alle Termine stehen weiterhin unter Corona-Vorbehalt!*
 ////
-- Sonntag, den 24. Juli: Weißwurstessen im Garagenhof
-- Samstag, den 20. August: Fahrt zur Landesausstellung "Typisch Franken"
-- Freitag, den 9. Dezember: Nikolausfeier am Kinderspielplatz
+
+- Freitag, den 28. April: Altdorf putzt sich raus
+- Ende April: Jahreshauptversammlung des Fürstenschlagvereins
+- Mitte Juli: Sommerfest im Garagenhof
+- Freitag, den 8. Dezember: Nikolausfeier am Kinderspielplatz
 ////
 ++++
 <p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Einladung_Nikolausfeier2022.pdf" target="_blank"><strong>Freitag, den 9. Dezember: Nikolausfeier im Fürstenschlag</strong></a></p>
 ++++
+////
