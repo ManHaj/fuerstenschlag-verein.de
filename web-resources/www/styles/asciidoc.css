@@ -680,3 +680,8 @@ span.rctitle {
   text-decoration: none;
   color: #E95B12;
 }
+
+.links {
+float: left;
+margin-right: 10px;
+}
