@@ -15,7 +15,7 @@ include::head-area.include[]
 //image::fuerstenschlagverein_vorstand.jpg["Unser Vorstand",width="40%",float="left"] 
 //und hier soll der Text weitergehen
 ++++
-<img class="links" src="images/fuerstenschlagverein_vorstand.jpg" width="50%" border="0" alt="Unser Vorstand">
+<img class="links" src="images/fuerstenschlagverein_vorstand.jpg" width="30%" border="0" alt="Unser Vorstand">
 
 <p>Unser Verein vertritt die Interessen des Stadtteils Fürstenschlag und seiner Bewohner gegenüber der Stadt Altdorf. 
 Wir verstehen uns als Ansprechpartner für die Belange der Bewohner des Fürstenschlags und möchte besonders die Gemeinschaft untereinander fördern. </p>
