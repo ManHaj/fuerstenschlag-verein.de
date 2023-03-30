@@ -1,4 +1,4 @@
-= Fürstenschlagverein Altdorf
+﻿= Fürstenschlagverein Altdorf
 :linkcss:
 :stylesdir: styles
 :disable-javascript:
@@ -29,15 +29,16 @@ für Haus und Garten</a>, die wir gerne an Mitglieder verleihen. Wir organisiere
 === Liebe Vereinsmitglieder und Freunde des Fürstenschlagvereins ===
 
 
-Nach mehr als zwei Jahren konnten wir endlich am 30. Mai 2022 wieder eine 
-link:downloads/Einladung_zur_JHV_2022.pdf[*Jahreshauptversammlung im Sportpark*] durchführen. Dabei wurde auch ein neuer Vorstand gewählt. +
-Nachdem unser langjähriger 1. Vorstand Reiner Graf aus gesundheitlichen Gründen nicht mehr kandidierte, wurde sein bisheriger Stellverteter Herr Manfred Hajek zum neuen Vorsitzenden gewählt. +
-Als Stellvertreterin des 1. Vorstands wurde Frau Gabi Wyczisk gewählt. Neu hinzugekommen in den Vorstand ist Herr Bastian Birn.
+Am *26. April 2023 findet unsere heurige Jahreshauptversammlung statt*. +
+Dort soll unter anderem über Satzungsänderungen abgestimmt und Nachwahlen von zwei Vorständen durchgeführt werden. Details dazu entnehmen Sie bitte 
+unserer
+link:downloads/Einladung_zur_JHV_2023.pdf[*Einladung zur Jahreshauptversammlung*]. +
+[red]*ACHTUNG: Diesmal findet diese Versammlung in der Aula der Grundschule statt.*
 
 === weitere Informationen ===
 ++++
 <p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="termine.html">Termine</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="downloads/Rundschreiben_2023_02_09.pdf" target="_blank"><strong>neuestes Rundschreiben</strong></a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="downloads/Rundschreiben_2023_04_01.pdf" target="_blank"><strong>neuestes Rundschreiben</strong></a></p>
 ++++
 
 ////

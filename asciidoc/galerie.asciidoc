@@ -1,4 +1,4 @@
-= Fürstenschlagverein Altdorf: Galerie
+﻿= Fürstenschlagverein Altdorf: Galerie
 :linkcss:
 :stylesdir: styles
 :enable-javascript:
