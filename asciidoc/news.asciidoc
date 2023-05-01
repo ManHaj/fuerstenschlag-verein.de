@@ -12,9 +12,36 @@ include::head-area.include[]
 
 == Fürstenschlagverein Altdorf: Aktuelles
 
-image::spendenscheck_uebergabe.jpg["Übergabe des Spendenschecks",width="60%"]
+=== Jahreshauptversammlung 2023 des Fürstenschlagvereins
+image::fuerstenschlagverein_vorstand.jpg["Vorstand des Fürstenschlagvereins",width="60%"]
+Am *Mittwoch, den 26.04.2023 fand die Jahreshauptversammlung des Fürstenschlagvereins* Altdorf in der Grundschule Altdorf statt. +
+Zahlreiche Mitglieder waren gekommen, um über die Zukunft des Vereins zu sprechen und sich über aktuelle Themen in der Nachbarschaft auszutauschen.
+Der Vorstand des Vereins berichtete über die Aktivitäten des vergangenen Jahres und stellte die geplanten Projekte für das kommende Jahr vor. 
+Besonders positiv wurde die Organisation von gemeinsamen Aktivitäten wie der Nikolausfeier und weiteren Festen von den Mitgliedern aufgenommen, stärken sie doch den Zusammenhalt in der Siedlung. +
+Ein weiterer wichtiger Punkt der Jahreshauptversammlung war die Infrastruktur in der Nachbarschaft. 
+Insbesondere Fragen zur Verkehrssicherheit und der Pflege von Spielflächen bewegt Familien mit kleinen Kindern. 
+Der Vorstand sicherte zu, die Anregungen zur Verbesserung an die Stadt weiterzugeben und bei der Umsetzung behilflich zu sein. +
+Im *Vorstand gab es ebenfalls Veränderungen*. Mit Herrn *Dr. Wolfgang Christl* und Herrn *Stephan Eckstein* wurden zwei neue Mitglieder *in den Vereinsvorstand gewählt*. 
+Sie ersetzen die ausgeschiedenen Vostände M. Pfeiffer und H. Kerschensteiner. Mit Herrn Eckstein und dem bereits im Vorstand tätigen Herrn Birn wird der Einfluss der jüngeren Familien im Vorstand weiter gestärkt. 
+Das zeigt sich bereits durch die Planung eines Hofflohmarktes als neue Veranstaltungsform. +
+Abschließend bedankte sich der Vorstand bei den Mitgliedern für ihr Engagement und ihre Unterstützung im vergangenen Jahr. 
+Er betonte, dass der Verein auch in Zukunft ein wichtiger Ansprechpartner für die Bewohner des Fürstenschlags bleiben werde und forderte alle Mitglieder auf, sich aktiv am Vereinsleben zu beteiligen. +
+Der Fürstenschlagverein freut sich auf ein weiteres erfolgreiches Jahr und lädt alle Bewohner der Nachbarschaft ein, sich an den kommenden Aktivitäten und Projekten zu beteiligen.
+
+
+=== Alljährliche Putzaktion im Rahmen von "Altdorf putzt sich raus"
+image::Altdorf_putzt_FSV-2023.jpg["Altdorf putzt sich raus",width="60%"]
+Am *Freitag, den 28.04.2023 fand im Fürstenschlag das alljährliche Ramadama im Rahmen der Aktion „Altdorf putzt sich heraus“ statt*. Nachbarn, Familien und Kinder beteiligten sich an der Aktion und sammelten in nur wenigen Stunden eine beeindruckende Menge an Abfall ein.
+Die Aktion wurde vom Fürstenschlagverein organisiert, der sich für ein sauberes und gepflegtes Umfeld in der Nachbarschaft einsetzt. Die Freiwilligen wurden mit Handschuhen, Müllsäcken und Greifzangen ausgestattet und machten sich in Kleingruppen auf den Weg, 
+um die Straßen, Wege und Spielplätze von Müll und Abfall zu befreien. +
+Die Aktion war ein großer Erfolg und trug dazu bei, das Bewusstsein für Umwelt- und Nachhaltigkeitsthemen in der Nachbarschaft zu stärken. 
+Es wurde deutlich, dass viele Menschen bereit sind, sich aktiv für eine saubere Umwelt einzusetzen und Verantwortung zu übernehmen. +
+Die Organisatoren der Aktion bedanken sich bei allen Freiwilligen und hoffen, dass diese Aktion weitere Menschen dazu motiviert,sich aktiv für eine saubere Umwelt einzusetzen.
+
+
 
 === Übergabe eines Spendenschecks von den Stadtwerken Altdorf
+image::spendenscheck_uebergabe.jpg["Übergabe des Spendenschecks",width="60%"]
 
 Liebe Mitglieder und Freunde des Fürstenschlagvereins,
 

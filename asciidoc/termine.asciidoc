@@ -15,16 +15,12 @@ include::head-area.include[]
 === [red]*Achtung! Alle Termine stehen weiterhin unter Corona-Vorbehalt!*
 ////
 
-- Mittwoch, den 26 April: link:downloads/Einladung_zur_JHV_2023.pdf[*Jahreshauptversammlung*] des Fürstenschlagvereins
-- Freitag, den 28. April: Altdorf putzt sich raus
-- Mitte Juli: Sommerfest im Garagenhof
+- 15. Juli: Sommerfest im Garagenhof
+- im September: Hofflohmarkt für Alt und Jung 
 - Freitag, den 8. Dezember: Nikolausfeier am Kinderspielplatz
+
 ////
 ++++
 <p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;<a href="downloads/Einladung_Nikolausfeier2022.pdf" target="_blank"><strong>Freitag, den 9. Dezember: Nikolausfeier im Fürstenschlag</strong></a></p>
 ++++
-<<<<<<< Updated upstream
 ////
-=======
-////
->>>>>>> Stashed changes
