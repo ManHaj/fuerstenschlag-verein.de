@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 # 2014-04-23 booboo
 # script to build html from all asciidoc files in asciidoc directory
