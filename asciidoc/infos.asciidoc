@@ -13,7 +13,7 @@ include::head-area.include[]
 == Fürstenschlagverein Altdorf: Rundschreiben
 
 ++++
-<a href="downloads/Rundschreiben_2023_04_01.pdf" target="_blank"><strong>Neuestes Rundschreiben vom April 2023</strong></a><br />
+<a href="downloads/Rundschreiben_2023_07_01.pdf" target="_blank"><strong>Neuestes Rundschreiben vom Juli 2023</strong></a><br />
 ++++
 
 === Unser Newsletter
@@ -22,6 +22,8 @@ wenn Sie künftig unsere Rundschreiben und Infos auch per Email erhalten wollen,
 
 === ältere Rundschreiben in zeitlicher Reihenfolge
 
+- link:downloads/Rundschreiben_2023_07_01.pdf[Rundschreiben Juli 2023]
+- link:downloads/Plakat-Sommerfest-2023.pdf[Einladung zur Sommerfest am 15. Juli 2023]
 - link:downloads/Einladung_zur_JHV_2023.pdf[Einladung zur Jahreshauptversammlung am 26. April 2023]
 - link:downloads/Rundschreiben_2023_04_01.pdf[Rundschreiben April 2023]
 - link:downloads/Rundschreiben_2023_02_09.pdf[Rundschreiben Februar 2023]
