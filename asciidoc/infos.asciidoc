@@ -13,7 +13,7 @@ include::head-area.include[]
 == Fürstenschlagverein Altdorf: Rundschreiben
 
 ++++
-<a href="downloads/Rundschreiben_2023_07_01.pdf" target="_blank"><strong>Neuestes Rundschreiben vom Juli 2023</strong></a><br />
+<a href="downloads/Rundschreiben_2024_10_05.pdf" target="_blank"><strong>Neuestes Rundschreiben vom Oktober 2024</strong></a><br />
 ++++
 
 === Unser Newsletter
@@ -22,14 +22,23 @@ wenn Sie künftig unsere Rundschreiben und Infos auch per Email erhalten wollen,
 
 === ältere Rundschreiben in zeitlicher Reihenfolge
 
+- link:downloads/Rundschreiben_2024_10_05.pdf[Rundschreiben Oktober 2024]
+- link:downloads/Rundschreiben_2024_06_20.pdf[Rundschreiben Juni 2024]
+- link:downloads/FSV-Sommerfest-2024_Plakat.pdf[Einladung zum Sommerfest am 13. Juli 2024]
+- link:downloads/Einladung_WLG-Tag-der-offenen-Tuer.pdf[Einladung der WLG zum Tag der offenen Tür am 13. Juli 2024]
+- link:downloads/Einladung_zur_JHV_2024.pdf[Einladung Jahreshauptversammlung am 9. April 2024]
+- link:downloads/Rundschreiben_2024_03_20.pdf[Rundschreiben März 2024]
+- link:downloads/Rundschreiben_2023_04_01.pdf[Rundschreiben Januar 2024]
+- link:downloads/Rundschreiben_2023_10_01.pdf[Rundschreiben Oktober 2023]
+- link:downloads/Hofflohmark-Plakat.pdf[Einladung zum geplanten Hofflohmarkt]
 - link:downloads/Rundschreiben_2023_07_01.pdf[Rundschreiben Juli 2023]
 - link:downloads/Plakat-Sommerfest-2023.pdf[Einladung zur Sommerfest am 15. Juli 2023]
 - link:downloads/Einladung_zur_JHV_2023.pdf[Einladung zur Jahreshauptversammlung am 26. April 2023]
 - link:downloads/Rundschreiben_2023_04_01.pdf[Rundschreiben April 2023]
 - link:downloads/Rundschreiben_2023_02_09.pdf[Rundschreiben Februar 2023]
 - link:downloads/Rundschreiben_2022_11_09.pdf[Rundschreiben November 2022]
-- link:downloads/Einladung_Nikolausfeier2022.pdf[Einladung zur Nikolausfeier am 9. Dezember 2022]
-- link:downloads/Frankenaustellung_Ansbach_2022.pdf[Einladung Landesausstellung "Typisch Franken?" am 20. August 2022]
+- link:downloads/Einladung_Nikolausfeier2022.pdf[Einl- link:downloads/Einladung_zur_JHV_2024.pdf[Einladung Jahreshauptversammlung am 9. April 2024]
+adung zur Nikolausfeier am 9. Dezember 2022]
 - link:downloads/Rundschreiben_2022_07_02.pdf[Rundschreiben Juli 2022]
 - link:downloads/Einladung_Weißwurstessen_2022_07_24.pdf[Einladung zum Weißwurstessen im Garagenhof am 24. Juli 2022]
 - link:downloads/Rundschreiben_2022_05_02.pdf[Rundschreiben Mai 2022]

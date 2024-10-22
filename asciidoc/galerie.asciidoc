@@ -9,12 +9,201 @@
 Berichte, Veranstaltungen
 :description: Veranstaltungsberichte Fürstenschlagverein in Altdorf bei Nürnberg
 
+[[Marke_zurueck]]
+
 include::head-area.include[]
 
 ==        Fürstenschlagverein Altdorf: Galerie
 
+//****
+//= Sidebar
+//****
+[role="navbar2"]
+link:#Marke_1[2024]
+link:#Marke_2[2023]
+link:#Marke_3[Früher]
+
+[[Marke_1, 2024]]
+== 2024
+
+=== Picknick im Wald am 3. August 2024
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-1.jpg["Picknick im Wald 1",width="60%"]
+
+Unser Picknick im Wald mit Lagerbau und Basteln mit Natur Materialien war ein schönes Erlebnis in unserer Nachbarschaft! 
+
+Nach einem gemeinsamen Spaziergang zu unserem Lagerplatz ging es gleich los.
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-2.jpg["Picknick im Wald 2",width="60%"]
+
+Die Kinder hatten großen Spaß daran, die Natur zu erkunden und aus Butzeln, Zweigen und anderen Materialien kreative Basteleien zu gestalten. 
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-3.jpg["Picknick im Wald 3 ",width="60%"]
+
+Auch der Lagerbau sorgte für Begeisterung bei den kleinen, fleißig machten sie sich auf die Suche nach den großen Ästen für ihren kleinen Unterschlüpfe.
+
+Es war wunderbar zu sehen, wie die Kinder in der Natur aufgingen, neue Freundschaften schlossen und ihre Kreativität frei auslebten. 
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-4.jpg["Picknick im Wald 4",width="60%"]
+
+Ein herzliches Dankeschön an alle Teilnehmer sowie Peggy und Georg Meinfelder/Klunker – wir freuen uns schon auf die nächsten Aktivitäten im Wald!
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-5.jpg["Picknick im Wald 5",width="60%"]
+
+
+=== Sommerfest des Fürstenschlagverein am 13. Juli 2024
+
+Sommerfest im Fürstenschlag begeistert Groß und Klein
+
+Am 13. Juli 2024 fand im Fürstenschlag ein großartiges Sommerfest statt, organisiert vom Fürstenschlag Verein mit tatkräftiger Unterstützung 
+zahlreicher Mitglieder. Bei stabilem Wetter und einer neuen, perfekt geeigneten Location konnten sich die Besucher auf ein vielfältiges Programm 
+und zahlreiche Attraktionen freuen.
+
+image::Sommerfest24/Sommerfestplatz_2024.jpg["Sommerfestplatz<",width="60%"]
+
+Für die Kinder gab es eine bunte Palette an Aktivitäten. Eine Hüpfburg bot Bewegung und Spaß, während beim Sackhüpfen und Schwamm laufen Geschicklichkeit 
+und Schnelligkeit gefragt waren. Beim Kinderschminken konnten sich die Kleinen in ihre Lieblingsfiguren verwandeln.
+
+image::Sommerfest24/Huepfburg-Aktion.jpg["Hüpfburg",width="60%"]
+
+Die Highlights des Tages waren der Besuch von Panchoo, der eine Einführung ins Jonglieren gab. Begeistert lernten Große wie Kinder die Grundlagen 
+dieses faszinierenden Kunststücks und hatten sichtlich Spaß dabei, die Bälle in der Luft zu halten.
+
+image::Sommerfest24/Jonglieren_m_Panchooo.jpg["Hüpfburg",width="60%"]
+
+Ebenfalls eine Attraktion war der Besuch der  Altdorfer Feuerwehr mit Herrn Schabik und seiner Tochter. Sie veranstalteten eine 
+großartige Löschaktion für die Kinder. Diese durften selbst Hand anlegen und mit Feuerlöschen spritzen, was für große Begeisterung sorgte.
+
+image::Sommerfest24/Loeschaktion_beim_Sommerfest.jpg["Löschen macht Spaß",width="60%"]
+
+Kreativität und Geschick waren beim Basteln von Papierfliegern gefragt, und im anschließenden Weitflug-Wettbewerb konnten die kleinen Konstrukteurinnen 
+ihre Werke gegeneinander antreten lassen.
+
+image::Sommerfest24/Kinderaktionen.jpg["Löschen macht Spaß",width="60%"]
+
+Für das leibliche Wohl war bestens gesorgt. Es gab eine Auswahl an Getränken, Kuchen, Käsebrote und leckere Bratwürste und Steak vom Grill. 
+Das Fleisch für den Grill kam von der Metzgerei Atzmannsdorfer und fand großen Anklang bei den Besuchern.
+
+Eine weitere Besonderheit war der Tag der offenen Tür der WLG. Zahlreiche Interessierte nutzten die Gelegenheit, das Heizhaus zu besichtigen und 
+ihre Fragen zu stellen. Diese informative und spannende Führung fand großen Anklang und wurde von den Besucherinnen sehr geschätzt.
+
+Das Sommerfest im Fürstenschlag war ein voller Erfolg und wurde von allen Beteiligten und Besuchern und Besucherinnen sehr gelobt. Ein herzlicher Dank geht 
+an alle Mitwirkenden, die dieses wunderbare Fest ermöglicht haben.
+
+
+=== Spendenübergabe der Stadtwerke Altdorf an Fürstenschlagverein am 10. Juni 2024
+
+Liebe Mitglieder des Fürstenschlagvereins,
+wir haben tolle Neuigkeiten für euch! Dank des speziellen Stromtarifs "A-Plus vereint", den die Stadtwerke Altdorf 2021 eingeführt haben, hat unser Verein in diesem Jahr eine Spende von 1.478 Euro erhalten.
+
+image::Uebergabe_Spendenschecks_2024.jpg["Spendenübergabe der Stadtwerke",width="30%"]
+
+Der Tarif "A-Plus vereint" ist wirklich eine Win-Win-Win-Situation: Die Vereine bekommen Spenden, die Haushalte nutzen Ökostrom, und die Stadtwerke erhalten und gewinnen neue Kunden. Am Anfang waren 25 Vereine dabei, jetzt sind es schon 64, die insgesamt 1,7 Millionen Kilowattstunden pro Jahr abnehmen.
+
+Wir sind besonders stolz darauf, dass so viele von euch auf den "A-Plus vereint" Tarif umgestiegen sind und uns damit diese Unterstützung ermöglicht haben. Diese Spende ist eine echte Hilfe und ermöglicht es uns, unsere Traditionen zu pflegen und neue Projekte zu starten, ohne die Mitgliedsbeiträge erhöhen zu müssen.
+
+Ein riesengroßes Dankeschön an alle, die dazu beigetragen haben! Eure Unterstützung zeigt, wie stark unser Zusammenhalt ist und wie sehr wir gemeinsam für unseren Verein einstehen.
+Die Stadtwerke Altdorf haben mit diesem Projekt wirklich etwas Tolles auf die Beine gestellt. Gemeinsam sorgen wir nicht nur dafür, dass unser Verein wächst und gedeiht, sondern auch dafür, dass umweltfreundliche Energie genutzt wird.
+
+Wir freuen uns sehr über diese positive Entwicklung und hoffen, dass wir auch in Zukunft von solchen Initiativen profitieren können. Danke nochmal an alle für eure Treue und Unterstützung.
+
+Viele Grüße,
+Euer Vereinsvorstand
+Fürstenschlagverein
+
+
+=== 1. Straßenflohmarkt des Fürstenschlagvereins am 5. Mai 2024
+
+Am vergangenen Wochenende fand der erster Straßenflohmarkt im Fürstenschlag statt und es war ein voller Erfolg! +
+Trotz des durchwachsenen Wetters ließen sich niemand die Laune verderben. 
+
+image::Flohmarkt24/Flohmarkt-2024_Bild10.jpg["Flohmarkt Bild 10",width="60%"]
+
+Zwischen Sonnenschein und Regenschauern durchstreiften 
+viele Interessenten die Straßen des Viertels, um das vielfältige Angebot zu erkunden. Dieses bestand aus allem, was Haus und Hof hergibt. 
+Neben Spielzeug, Kleidung und Hausrat gab es zur Stärkung auch feinen Kuchen und Kaffee.
+
+Doch was diesen Tag so besonders machte, waren nicht nur die Schätze, die auf den Tischen und Decken zu Verkauf standen, 
+sondern vor allem die wundervollen Begegnungen mit den Nachbarn des Stadtteils.
+Wirklich erstaunlich, wie einfach sich durch so einen Flohmarkt das Kennenlernen fördern und die Nachbarschaft stärken lässt. 
+
+
+image::Flohmarkt24/Flohmarkt-2024_Bild1.jpg["Flohmarkt Bild 1",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild2.jpg["Flohmarkt Bild 2",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild4.jpg["Flohmarkt Bild 4",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild5.jpg["Flohmarkt Bild 5",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild6.jpg["Flohmarkt Bild 6",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild7.jpg["Flohmarkt Bild 7",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild8.jpg["Flohmarkt Bild 8",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild9.jpg["Flohmarkt Bild 9",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild11.jpg["Flohmarkt Bild 11",width="60%"]
+
+Es wird das sicher nicht das letzte Mal gewesen sein, dass es im Fürstenschlag so umtriebig zugeht. Alle Beteiligten freuen sich schon aufs nächste Mal.
+
+
+=== Altdorf putzt sich raus am 12. April 2024
+image::Putzen_Start.jpg["Putzer*Innen am Start",width="60%"]
+Unser Fürstenschlag putzt sich raus! Am Freitag, den 12.04.2024 haben wir uns wieder
+getroffen, um unser Viertel auf Vordermann zu bringen. Wir haben uns riesig gefreut das sich so
+viele Mitglieder gemeldet haben, um herumliegenden Müll einzusammeln. Die Freiwilligen
+wurden mit Handschuhen, Müllsäcken und Greifzangen ausgestattet und machten sich in
+Kleingruppen auf den Weg.
+
+image::Putzen_1.jpg["Putzer*Innen bei der Arbeit",width="60%"]
+Am Ende durften sich unsere jüngsten nochmal am Waldspielplatz auf die Suche machen,
+allerding wurde kein Müll gefunden, sondern einige Osterüberraschungen. Die Aktion wurde vom
+Fürstenschlagverein organisiert und war ein großer Erfolg. Unsere Nachbarschaft ist wieder
+pikobello sauber und wir haben unser miteinander gestärkt. Es ist schön zu beobachten wie viel
+Freude es den Kindern bereitet die Natur von Müll zu befreien.
+
+image::Putzen_Abschluss.jpg["Putzer*Innen am Schluss",width="60%"]
+Die Organisatoren der Aktion bedanken sich bei allen Freiwilligen und hoffen, dass diese Aktion
+weitere Menschen dazu motiviert, sich aktiv für eine saubere Umwelt einzusetzen.
+
+=== Jahreshauptversammlung des Fürstenschlagvereins am 9. April 2024
+image::Foto_JHV-2024_Fragen-an-BM.jpg["Jahreshauptversammlung 2024",width="60%"]
+
+In der Aula der Grundschule fand im Beisein unseres Bürgermeisters Martin
+Tabor am 9.4.24 die Jahreshauptversammlung der „Fürstenschlägler“ statt.
+Vor recht zahlreich erschienen Mitgliedern eröffnete der 1. Vorsitzende
+Manfred Hajek den Abend. Der Rückblick auf die Aktivitäten des vergangenen
+Jahres und der Kassenbericht erfolgte durch Dr. Wolfgang Christl. Besonders
+hervorgehoben wurden das gelungene Sommerfest 2023, die traditionelle
+Nikolausfeier, Verleihaktivitäten, Putzaktionen und informelle Dienste.
+Stephan Eckstein präsentierte Ideen für die nahe Zukunft. 
+
+Geplant sind neben den vertrauten Veranstaltungen vor allem Familienaktionen, interaktive
+Begegnungsevents zwischen Jung und Alt, Exkursionen in die nähere
+Umgebung, aber auch wieder Städtetouren.
+
+Nach der Entlastung des Vorstands standen turnusgemäß Neuwahlen an.
+Dabei wurden Manfred Hajek als 1.Vorstand und im weiteren Gabi Wyscik,
+Jasmin Groß, Dr. Wolfgang Christl, Bastian Birn, Stephan Eckstein als Vorstände
+bestätigt, sowie Heiko Bobrich neu dazu gewählt.
+Im unmittelbaren Dialog mit Bgm. Tabor erörterte dann Jasmin Gross Fragen
+und Anliegen aus der Mitgliedschaft. Dabei ging es u.a. um Spielplatzsanierung,
+verkehrsberuhigende Maßnahmen, Optimierungen zur Barrierefreiheit,
+Parkplatzprobleme, Überarbeitung der Hessenstraße im Abschnitt „am See“,
+Begehungssicherheit des Fürstenschlagwaldes und den Stand der
+Glasfaseranbindung des Viertels.
+
+In der abschließenden Diskussion über die WLG (Wärmelieferungsgenossenschaft) bekannte sich deren Aufsichtsratsvorsitzender Herbert Fischer
+ausdrücklich zum konstruktiven Austausch, um eine zufriedenstellende
+„Vernetzung“ aller Fernwärmenutzer zu erreichen.
+
+Mit dem Dank für die Arbeit der Vorstandschaft und der Perspektive auf einen
+weiterhin gelingenden Generationenwechsel im Wohnviertel Fürstenschlag
+schloss die Veranstaltung.
+
+
+link:#Marke_zurueck[zurück]
+
+[[Marke_2, 2023]]
+
 == 2023
-=== Sommerfest des Fürstenschlagvereins am 15. Juli
+
+=== Sommerfest des Fürstenschlagvereins am 15. Juli 2023
+image::Besucher_unter_Pavillions-2.jpg["Besucher unter Pavillion",width="60%"]
 Nach langer Pause wieder ein Sommerfest im Fürstenschlag
 Endlich, nach einer Durststrecke von sechs Jahren, zum Teil bedingt durch die Coronaviren und -Wirren, fasste sich der Vorstand des Fürstenschlagvereins ein Herz und veranstaltete 
 am Samstag, den 15. Juli wieder sein traditionelles Sommerfest am Wendehammer in der Pfälzer Straße. 
@@ -24,6 +213,37 @@ Das Wetter meinte es anfangs fast zu gut und heizte den frühen Besuchern ordent
 und man genoss den Rest des sommerlichen Abends bei angenehmsten Temperaturen. Bis spät in die Nachtstunden saßen Nachbarn und Freunde gemütlich zusammen und feierten. 
 Alle Anwesenden waren voll des Lobes für die perfekte Organisation und Versorgung. Es bleibt zu hoffen, dass diese gesellige Aktion wieder zu einem festen Termin für die "Fürstenschlag Community" wird.
 link:https://photos.app.goo.gl/MumZxGUDQWbbKo16A[Bilder vom Sommerfest 2023]
+
+=== Jahreshauptversammlung 2023 des Fürstenschlagvereins
+image::fuerstenschlagverein_vorstand.jpg["Vorstand des Fürstenschlagvereins",width="60%"]
+Am *Mittwoch, den 26.04.2023 fand die Jahreshauptversammlung des Fürstenschlagvereins* Altdorf in der Grundschule Altdorf statt. +
+Zahlreiche Mitglieder waren gekommen, um über die Zukunft des Vereins zu sprechen und sich über aktuelle Themen in der Nachbarschaft auszutauschen.
+Der Vorstand des Vereins berichtete über die Aktivitäten des vergangenen Jahres und stellte die geplanten Projekte für das kommende Jahr vor. 
+Besonders positiv wurde die Organisation von gemeinsamen Aktivitäten wie der Nikolausfeier und weiteren Festen von den Mitgliedern aufgenommen, stärken sie doch den Zusammenhalt in der Siedlung. +
+Ein weiterer wichtiger Punkt der Jahreshauptversammlung war die Infrastruktur in der Nachbarschaft. 
+Insbesondere Fragen zur Verkehrssicherheit und der Pflege von Spielflächen bewegt Familien mit kleinen Kindern. 
+Der Vorstand sicherte zu, die Anregungen zur Verbesserung an die Stadt weiterzugeben und bei der Umsetzung behilflich zu sein. +
+Im *Vorstand gab es ebenfalls Veränderungen*. Mit Herrn *Dr. Wolfgang Christl* und Herrn *Stephan Eckstein* wurden zwei neue Mitglieder *in den Vereinsvorstand gewählt*. 
+Sie ersetzen die ausgeschiedenen Vostände M. Pfeiffer und H. Kerschensteiner. Mit Herrn Eckstein und dem bereits im Vorstand tätigen Herrn Birn wird der Einfluss der jüngeren Familien im Vorstand weiter gestärkt. 
+Das zeigt sich bereits durch die Planung eines Hofflohmarktes als neue Veranstaltungsform. +
+Abschließend bedankte sich der Vorstand bei den Mitgliedern für ihr Engagement und ihre Unterstützung im vergangenen Jahr. 
+Er betonte, dass der Verein auch in Zukunft ein wichtiger Ansprechpartner für die Bewohner des Fürstenschlags bleiben werde und forderte alle Mitglieder auf, sich aktiv am Vereinsleben zu beteiligen. +
+Der Fürstenschlagverein freut sich auf ein weiteres erfolgreiches Jahr und lädt alle Bewohner der Nachbarschaft ein, sich an den kommenden Aktivitäten und Projekten zu beteiligen.
+
+
+=== Alljährliche Putzaktion im Rahmen von "Altdorf putzt sich raus"
+image::Altdorf_putzt_FSV-2023.jpg["Altdorf putzt sich raus",width="60%"]
+Am *Freitag, den 28.04.2023 fand im Fürstenschlag das alljährliche Ramadama im Rahmen der Aktion „Altdorf putzt sich heraus“ statt*. Nachbarn, Familien und Kinder beteiligten sich an der Aktion und sammelten in nur wenigen Stunden eine beeindruckende Menge an Abfall ein.
+Die Aktion wurde vom Fürstenschlagverein organisiert, der sich für ein sauberes und gepflegtes Umfeld in der Nachbarschaft einsetzt. Die Freiwilligen wurden mit Handschuhen, Müllsäcken und Greifzangen ausgestattet und machten sich in Kleingruppen auf den Weg, 
+um die Straßen, Wege und Spielplätze von Müll und Abfall zu befreien. +
+Die Aktion war ein großer Erfolg und trug dazu bei, das Bewusstsein für Umwelt- und Nachhaltigkeitsthemen in der Nachbarschaft zu stärken. 
+Es wurde deutlich, dass viele Menschen bereit sind, sich aktiv für eine saubere Umwelt einzusetzen und Verantwortung zu übernehmen. +
+Die Organisatoren der Aktion bedanken sich bei allen Freiwilligen und hoffen, dass diese Aktion weitere Menschen dazu motiviert,sich aktiv für eine saubere Umwelt einzusetzen.
+
+
+link:#Marke_zurueck[zurück]
+
+[[Marke_3, Frühere]]
 
 == 2019
 === Frühjahrsfahrt des Fürstenschagvereins zum Kloster Maulbronn und nach Bad Wimpfen
@@ -44,6 +264,8 @@ Für die Erklärungen über Bad Wimpfen hatten wir örtliche Unterstützung. Sel
 nicht davon ab, die interessante Führung bis zum Ende durchzuhalten. +
 Letztlich konnte diese Fahrt nur der Anregung dienen. Alles an einem Tag zu zeigen war natürlich nicht möglich. +
 link:https://photos.app.goo.gl/pdH6EiJPLtZGxxEe7[Bilder der Frühjahrsfahrt 2019 des Fürstenschagvereins]
+
+link:#Marke_zurueck[zurück]
 
 == Ältere Infos 
 ++++
@@ -883,3 +1105,5 @@ function OpenPic(bigurl, size)
 			</div>
 
 ++++
+
+link:#Marke_zurueck[zurück]

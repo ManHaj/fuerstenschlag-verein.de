@@ -16,6 +16,7 @@ include::head-area.include[]
 ////
 
 ////
+********* Auskommentiert fürs nächste mal ************
 === Sonntag, den 1. Oktober: Hof-Flohmarkt im Fürstenschlag 
 
 Uhrzeit: 15-18 Uhr
@@ -28,9 +29,27 @@ das perfekte Schnäppchen! +
 
 Bitte meldet euch bis 25.09.2023 bei uns an, wenn ihr einen Verkaufsstand aufstellen möchtet, damit wir eine kleine Übersicht der einzelnen Stände im Fürstenschlag 
 erstellen können. Anmeldung über den folgenden Link: https://forms.office.com/r/8k3hd3xyb3
+******************************************************
 ////
 
-=== Freitag, den 8. Dezember: Nikolausfeier am Kinderspielplatz
+////  
+********* Auskommentiert fürs nächste mal ************
+=== Samstag, den 3. August: link:downloads/Picknick_im_Wald-2024.pdf[Picknick mit der Familie im Wald]
+Start um 14:30 Uhr auf dem Bolzplatz vor dem WLG-Heizhaus +
+Was erwartet euch?
+
+- Picknick im Grünen: Bringt eure Lieblingsspeisen mit und genießt ein gemeinsames Essen in der Natur.
+- Hütten- und Höhlenbau: Kreativ werden und eigene Unterkünfte aus Naturmaterialien errichten.
+- Basteln mit Naturmaterialien: Spannende Bastelaktionen für Groß und Klein.
+
+Anmeldung bitte bis 1. August per E-Mail an jasmin.gross@fuerstenschlag-verein.de !
+*******************************************************
+////
+
+=== Dienstag, den 5. November: link:downloads/Energieabend-Plakat.pdf[*Energieabend des Fürstenschlagvereins*] 
+Themen: link:downloads/Rundschreiben_2024_10_05.pdf[Gebäudesanierung, PV-Anlagen, Heizen mit der WLG]
+
+=== Freitag, den 6. Dezember: Nikolausfeier am Kinderspielplatz
 
 ////
 ++++

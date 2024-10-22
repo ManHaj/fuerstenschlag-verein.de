@@ -2,7 +2,7 @@ image:fuerstenschlag_banner_1000px.png["Fürstenschlagverein Altdorf e.V.", widt
 
 [role="navbar"]
 link:index.html[Home]
-link:news.html[Aktuelles]
+//link:news.html[Aktuelles]
 link:termine.html[Termine]
 link:infos.html[Rundschreiben]
 link:utils.html[Nützliches]

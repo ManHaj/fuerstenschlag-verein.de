@@ -23,17 +23,19 @@ Wir verstehen uns als Ansprechpartner für die Belange der Bewohner des Fürsten
 <a href="galerie.html#nikolaus17" target="_blank"> jedes Jahr der Nikolaus </a> zu unseren Kindern. 
 Wir kümmern uns auch um praktische Belange. So verfügt der Verein über <a href="downloads/Geraeteliste_aktuell.pdf" target="_blank">Gerätschaften 
 für Haus und Garten</a>, die wir gerne an Mitglieder verleihen. Wir organisieren den jährlichen gemeinsamen Frühjahrsputz der Gehwege und Spielplätze.</p>
-<p>Weitere Informationen über unserer Aktivitäten finden Sie in <a href="downloads/Flyer_Fuerstenschlagverein-Altdorf.pdf" target=_blank">unserer Info-Broschüre.</a></p></p>
+<p><a href="termine.html">Weitere <b>Informationen über unserer Aktivitäten finden Sie hier</a></p></b></p>
 ++++
 
 === Liebe Vereinsmitglieder und Freunde des Fürstenschlagvereins
-Am Samstag, den 15. Juli feiererten wir unser Sommerfest. link:news.html[Einen Bericht darüber finden Sie hier] +
-Am Sonntag, den 1. Oktober veranstalten wir einen Hof-Flohmarkt! link:termine.html[Weitere Infos dazu finden sie hier]. 
 
-=== weitere Informationen
+- wir möchten Sie gerne zu unserem link:downloads/Energieabend-Plakat.pdf[*Energieabend des Fürstenschlagvereins*] einladen! +
+Nähere Informationen finden Sie link:downloads/Rundschreiben_2024_10_05.pdf[hier]
+
+- Berichte und Fotos vergangender Ereignisse finden Sie in link:galerie.html[unserer Galerie].
+
 ++++
 <p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="termine.html">Termine</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="downloads/Rundschreiben_2023_07_01.pdf" target="_blank"><strong>neuestes Rundschreiben</strong></a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;siehe auch <a href="downloads/Rundschreiben_2024_10_05.pdf" target="_blank"><strong>neuestes Rundschreiben</strong></a></p>
 ++++
 
 ////

@@ -1,0 +1,1109 @@
+﻿= Fürstenschlagverein Altdorf: Galerie
+:linkcss:
+:stylesdir: styles
+:enable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Fürstenschlag, Altdorf, Nürnberg, Vorstadtverein, +
+Berichte, Veranstaltungen
+:description: Veranstaltungsberichte Fürstenschlagverein in Altdorf bei Nürnberg
+
+[[Marke_zurueck]]
+
+include::head-area.include[]
+
+==        Fürstenschlagverein Altdorf: Galerie
+
+//****
+//= Sidebar
+//****
+[role="navbar2"]
+link:#Marke_1[2024]
+link:#Marke_2[2023]
+link:#Marke_3[Früher]
+
+[[Marke_1, 2024]]
+== 2024
+
+=== Picknick im Wald am 3. August 2024
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-1.jpg["Picknick im Wald 1",width="60%"]
+
+Unser Picknick im Wald mit Lagerbau und Basteln mit Natur Materialien war ein schönes Erlebnis in unserer Nachbarschaft! 
+
+Nach einem gemeinsamen Spaziergang zu unserem Lagerplatz ging es gleich los.
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-2.jpg["Picknick im Wald 2",width="60%"]
+
+Die Kinder hatten großen Spaß daran, die Natur zu erkunden und aus Butzeln, Zweigen und anderen Materialien kreative Basteleien zu gestalten. 
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-3.jpg["Picknick im Wald 3 ",width="60%"]
+
+Auch der Lagerbau sorgte für Begeisterung bei den kleinen, fleißig machten sie sich auf die Suche nach den großen Ästen für ihren kleinen Unterschlüpfe.
+
+Es war wunderbar zu sehen, wie die Kinder in der Natur aufgingen, neue Freundschaften schlossen und ihre Kreativität frei auslebten. 
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-4.jpg["Picknick im Wald 4",width="60%"]
+
+Ein herzliches Dankeschön an alle Teilnehmer sowie Peggy und Georg Meinfelder/Klunker – wir freuen uns schon auf die nächsten Aktivitäten im Wald!
+
+image::Waldpicknick24/Picknick-im-Wald-2024_Bild-5.jpg["Picknick im Wald 5",width="60%"]
+
+
+=== Sommerfest des Fürstenschlagverein am 13. Juli 2024
+
+Sommerfest im Fürstenschlag begeistert Groß und Klein
+
+Am 13. Juli 2024 fand im Fürstenschlag ein großartiges Sommerfest statt, organisiert vom Fürstenschlag Verein mit tatkräftiger Unterstützung 
+zahlreicher Mitglieder. Bei stabilem Wetter und einer neuen, perfekt geeigneten Location konnten sich die Besucher auf ein vielfältiges Programm 
+und zahlreiche Attraktionen freuen.
+
+image::Sommerfest24/Sommerfestplatz_2024.jpg["Sommerfestplatz<",width="60%"]
+
+Für die Kinder gab es eine bunte Palette an Aktivitäten. Eine Hüpfburg bot Bewegung und Spaß, während beim Sackhüpfen und Schwamm laufen Geschicklichkeit 
+und Schnelligkeit gefragt waren. Beim Kinderschminken konnten sich die Kleinen in ihre Lieblingsfiguren verwandeln.
+
+image::Sommerfest24/Huepfburg-Aktion.jpg["Hüpfburg",width="60%"]
+
+Die Highlights des Tages waren der Besuch von Panchoo, der eine Einführung ins Jonglieren gab. Begeistert lernten Große wie Kinder die Grundlagen 
+dieses faszinierenden Kunststücks und hatten sichtlich Spaß dabei, die Bälle in der Luft zu halten.
+
+image::Sommerfest24/Jonglieren_m_Panchooo.jpg["Hüpfburg",width="60%"]
+
+Ebenfalls eine Attraktion war der Besuch der  Altdorfer Feuerwehr mit Herrn Schabik und seiner Tochter. Sie veranstalteten eine 
+großartige Löschaktion für die Kinder. Diese durften selbst Hand anlegen und mit Feuerlöschen spritzen, was für große Begeisterung sorgte.
+
+image::Sommerfest24/Loeschaktion_beim_Sommerfest.jpg["Löschen macht Spaß",width="60%"]
+
+Kreativität und Geschick waren beim Basteln von Papierfliegern gefragt, und im anschließenden Weitflug-Wettbewerb konnten die kleinen Konstrukteurinnen 
+ihre Werke gegeneinander antreten lassen.
+
+image::Sommerfest24/Kinderaktionen.jpg["Löschen macht Spaß",width="60%"]
+
+Für das leibliche Wohl war bestens gesorgt. Es gab eine Auswahl an Getränken, Kuchen, Käsebrote und leckere Bratwürste und Steak vom Grill. 
+Das Fleisch für den Grill kam von der Metzgerei Atzmannsdorfer und fand großen Anklang bei den Besuchern.
+
+Eine weitere Besonderheit war der Tag der offenen Tür der WLG. Zahlreiche Interessierte nutzten die Gelegenheit, das Heizhaus zu besichtigen und 
+ihre Fragen zu stellen. Diese informative und spannende Führung fand großen Anklang und wurde von den Besucherinnen sehr geschätzt.
+
+Das Sommerfest im Fürstenschlag war ein voller Erfolg und wurde von allen Beteiligten und Besuchern und Besucherinnen sehr gelobt. Ein herzlicher Dank geht 
+an alle Mitwirkenden, die dieses wunderbare Fest ermöglicht haben.
+
+
+=== Spendenübergabe der Stadtwerke Altdorf an Fürstenschlagverein am 10. Juni 2024
+
+Liebe Mitglieder des Fürstenschlagvereins,
+wir haben tolle Neuigkeiten für euch! Dank des speziellen Stromtarifs "A-Plus vereint", den die Stadtwerke Altdorf 2021 eingeführt haben, hat unser Verein in diesem Jahr eine Spende von 1.478 Euro erhalten.
+
+image::Uebergabe_Spendenschecks_2024.jpg["Spendenübergabe der Stadtwerke",width="30%"]
+
+Der Tarif "A-Plus vereint" ist wirklich eine Win-Win-Win-Situation: Die Vereine bekommen Spenden, die Haushalte nutzen Ökostrom, und die Stadtwerke erhalten und gewinnen neue Kunden. Am Anfang waren 25 Vereine dabei, jetzt sind es schon 64, die insgesamt 1,7 Millionen Kilowattstunden pro Jahr abnehmen.
+
+Wir sind besonders stolz darauf, dass so viele von euch auf den "A-Plus vereint" Tarif umgestiegen sind und uns damit diese Unterstützung ermöglicht haben. Diese Spende ist eine echte Hilfe und ermöglicht es uns, unsere Traditionen zu pflegen und neue Projekte zu starten, ohne die Mitgliedsbeiträge erhöhen zu müssen.
+
+Ein riesengroßes Dankeschön an alle, die dazu beigetragen haben! Eure Unterstützung zeigt, wie stark unser Zusammenhalt ist und wie sehr wir gemeinsam für unseren Verein einstehen.
+Die Stadtwerke Altdorf haben mit diesem Projekt wirklich etwas Tolles auf die Beine gestellt. Gemeinsam sorgen wir nicht nur dafür, dass unser Verein wächst und gedeiht, sondern auch dafür, dass umweltfreundliche Energie genutzt wird.
+
+Wir freuen uns sehr über diese positive Entwicklung und hoffen, dass wir auch in Zukunft von solchen Initiativen profitieren können. Danke nochmal an alle für eure Treue und Unterstützung.
+
+Viele Grüße,
+Euer Vereinsvorstand
+Fürstenschlagverein
+
+
+=== 1. Straßenflohmarkt des Fürstenschlagvereins am 5. Mai 2024
+
+Am vergangenen Wochenende fand der erster Straßenflohmarkt im Fürstenschlag statt und es war ein voller Erfolg! +
+Trotz des durchwachsenen Wetters ließen sich niemand die Laune verderben. 
+
+image::Flohmarkt24/Flohmarkt-2024_Bild10.jpg["Flohmarkt Bild 10",width="60%"]
+
+Zwischen Sonnenschein und Regenschauern durchstreiften 
+viele Interessenten die Straßen des Viertels, um das vielfältige Angebot zu erkunden. Dieses bestand aus allem, was Haus und Hof hergibt. 
+Neben Spielzeug, Kleidung und Hausrat gab es zur Stärkung auch feinen Kuchen und Kaffee.
+
+Doch was diesen Tag so besonders machte, waren nicht nur die Schätze, die auf den Tischen und Decken zu Verkauf standen, 
+sondern vor allem die wundervollen Begegnungen mit den Nachbarn des Stadtteils.
+Wirklich erstaunlich, wie einfach sich durch so einen Flohmarkt das Kennenlernen fördern und die Nachbarschaft stärken lässt. 
+
+
+image::Flohmarkt24/Flohmarkt-2024_Bild1.jpg["Flohmarkt Bild 1",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild2.jpg["Flohmarkt Bild 2",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild4.jpg["Flohmarkt Bild 4",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild5.jpg["Flohmarkt Bild 5",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild6.jpg["Flohmarkt Bild 6",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild7.jpg["Flohmarkt Bild 7",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild8.jpg["Flohmarkt Bild 8",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild9.jpg["Flohmarkt Bild 9",width="60%"]
+image::Flohmarkt24/Flohmarkt-2024_Bild11.jpg["Flohmarkt Bild 11",width="60%"]
+
+Es wird das sicher nicht das letzte Mal gewesen sein, dass es im Fürstenschlag so umtriebig zugeht. Alle Beteiligten freuen sich schon aufs nächste Mal.
+
+
+=== Altdorf putzt sich raus am 12. April 2024
+image::Putzen_Start.jpg["Putzer*Innen am Start",width="60%"]
+Unser Fürstenschlag putzt sich raus! Am Freitag, den 12.04.2024 haben wir uns wieder
+getroffen, um unser Viertel auf Vordermann zu bringen. Wir haben uns riesig gefreut, dass sich so
+viele Mitglieder gemeldet haben, um herumliegenden Müll einzusammeln. Die Freiwilligen
+wurden mit Handschuhen, Müllsäcken und Greifzangen ausgestattet und machten sich in
+Kleingruppen auf den Weg.
+
+image::Putzen_1.jpg["Putzer*Innen bei der Arbeit",width="60%"]
+Am Ende durften sich unsere jüngsten nochmal am Waldspielplatz auf die Suche machen,
+allerding wurde kein Müll gefunden, sondern einige Osterüberraschungen. Die Aktion wurde vom
+Fürstenschlagverein organisiert und war ein großer Erfolg. Unsere Nachbarschaft ist wieder
+pikobello sauber und wir haben unser miteinander gestärkt. Es ist schön zu beobachten wie viel
+Freude es den Kindern bereitet die Natur von Müll zu befreien.
+
+image::Putzen_Abschluss.jpg["Putzer*Innen am Schluss",width="60%"]
+Die Organisatoren der Aktion bedanken sich bei allen Freiwilligen und hoffen, dass diese Aktion
+weitere Menschen dazu motiviert, sich aktiv für eine saubere Umwelt einzusetzen.
+
+=== Jahreshauptversammlung des Fürstenschlagvereins am 9. April 2024
+image::Foto_JHV-2024_Fragen-an-BM.jpg["Jahreshauptversammlung 2024",width="60%"]
+
+In der Aula der Grundschule fand im Beisein unseres Bürgermeisters Martin
+Tabor am 9.4.24 die Jahreshauptversammlung der „Fürstenschlägler“ statt.
+Vor recht zahlreich erschienen Mitgliedern eröffnete der 1. Vorsitzende
+Manfred Hajek den Abend. Der Rückblick auf die Aktivitäten des vergangenen
+Jahres und der Kassenbericht erfolgte durch Dr. Wolfgang Christl. Besonders
+hervorgehoben wurden das gelungene Sommerfest 2023, die traditionelle
+Nikolausfeier, Verleihaktivitäten, Putzaktionen und informelle Dienste.
+Stephan Eckstein präsentierte Ideen für die nahe Zukunft. 
+
+Geplant sind neben den vertrauten Veranstaltungen vor allem Familienaktionen, interaktive
+Begegnungsevents zwischen Jung und Alt, Exkursionen in die nähere
+Umgebung, aber auch wieder Städtetouren.
+
+Nach der Entlastung des Vorstands standen turnusgemäß Neuwahlen an.
+Dabei wurden Manfred Hajek als 1.Vorstand und im weiteren Gabi Wyscik,
+Jasmin Groß, Dr. Wolfgang Christl, Bastian Birn, Stephan Eckstein als Vorstände
+bestätigt, sowie Heiko Bobrich neu dazu gewählt.
+Im unmittelbaren Dialog mit Bgm. Tabor erörterte dann Jasmin Gross Fragen
+und Anliegen aus der Mitgliedschaft. Dabei ging es u.a. um Spielplatzsanierung,
+verkehrsberuhigende Maßnahmen, Optimierungen zur Barrierefreiheit,
+Parkplatzprobleme, Überarbeitung der Hessenstraße im Abschnitt „am See“,
+Begehungssicherheit des Fürstenschlagwaldes und den Stand der
+Glasfaseranbindung des Viertels.
+
+In der abschließenden Diskussion über die WLG (Wärmelieferungsgenossenschaft) bekannte sich deren Aufsichtsratsvorsitzender Herbert Fischer
+ausdrücklich zum konstruktiven Austausch, um eine zufriedenstellende
+„Vernetzung“ aller Fernwärmenutzer zu erreichen.
+
+Mit dem Dank für die Arbeit der Vorstandschaft und der Perspektive auf einen
+weiterhin gelingenden Generationenwechsel im Wohnviertel Fürstenschlag
+schloss die Veranstaltung.
+
+
+link:#Marke_zurueck[zurück]
+
+[[Marke_2, 2023]]
+
+== 2023
+
+=== Sommerfest des Fürstenschlagvereins am 15. Juli 2023
+image::Besucher_unter_Pavillions-2.jpg["Besucher unter Pavillion",width="60%"]
+Nach langer Pause wieder ein Sommerfest im Fürstenschlag
+Endlich, nach einer Durststrecke von sechs Jahren, zum Teil bedingt durch die Coronaviren und -Wirren, fasste sich der Vorstand des Fürstenschlagvereins ein Herz und veranstaltete 
+am Samstag, den 15. Juli wieder sein traditionelles Sommerfest am Wendehammer in der Pfälzer Straße. 
+Der Generationenwechsel im Viertel macht sich deutlich bemerkbar. Viele Kinder belebten die Straße und so bescherten sich die Bewohner selbst mit einem frohen Fest für Jung und Alt. 
+Für die Kleineren gab es ein eigenes Nachmittagsprogramm mit Spielen und Wettkämpfen, tollen Preisen, Gaudi und Spaß. Die Eltern konnten sich derweil bei Kaffee und Kuchen austauschen. 
+Das Wetter meinte es anfangs fast zu gut und heizte den frühen Besuchern ordentlich ein. Ein drohendes Gewitter sorgte für kurze Aufregung aber auch für Abkühlung. Es zog vorbei 
+und man genoss den Rest des sommerlichen Abends bei angenehmsten Temperaturen. Bis spät in die Nachtstunden saßen Nachbarn und Freunde gemütlich zusammen und feierten. 
+Alle Anwesenden waren voll des Lobes für die perfekte Organisation und Versorgung. Es bleibt zu hoffen, dass diese gesellige Aktion wieder zu einem festen Termin für die "Fürstenschlag Community" wird.
+link:https://photos.app.goo.gl/MumZxGUDQWbbKo16A[Bilder vom Sommerfest 2023]
+
+=== Jahreshauptversammlung 2023 des Fürstenschlagvereins
+image::fuerstenschlagverein_vorstand.jpg["Vorstand des Fürstenschlagvereins",width="60%"]
+Am *Mittwoch, den 26.04.2023 fand die Jahreshauptversammlung des Fürstenschlagvereins* Altdorf in der Grundschule Altdorf statt. +
+Zahlreiche Mitglieder waren gekommen, um über die Zukunft des Vereins zu sprechen und sich über aktuelle Themen in der Nachbarschaft auszutauschen.
+Der Vorstand des Vereins berichtete über die Aktivitäten des vergangenen Jahres und stellte die geplanten Projekte für das kommende Jahr vor. 
+Besonders positiv wurde die Organisation von gemeinsamen Aktivitäten wie der Nikolausfeier und weiteren Festen von den Mitgliedern aufgenommen, stärken sie doch den Zusammenhalt in der Siedlung. +
+Ein weiterer wichtiger Punkt der Jahreshauptversammlung war die Infrastruktur in der Nachbarschaft. 
+Insbesondere Fragen zur Verkehrssicherheit und der Pflege von Spielflächen bewegt Familien mit kleinen Kindern. 
+Der Vorstand sicherte zu, die Anregungen zur Verbesserung an die Stadt weiterzugeben und bei der Umsetzung behilflich zu sein. +
+Im *Vorstand gab es ebenfalls Veränderungen*. Mit Herrn *Dr. Wolfgang Christl* und Herrn *Stephan Eckstein* wurden zwei neue Mitglieder *in den Vereinsvorstand gewählt*. 
+Sie ersetzen die ausgeschiedenen Vostände M. Pfeiffer und H. Kerschensteiner. Mit Herrn Eckstein und dem bereits im Vorstand tätigen Herrn Birn wird der Einfluss der jüngeren Familien im Vorstand weiter gestärkt. 
+Das zeigt sich bereits durch die Planung eines Hofflohmarktes als neue Veranstaltungsform. +
+Abschließend bedankte sich der Vorstand bei den Mitgliedern für ihr Engagement und ihre Unterstützung im vergangenen Jahr. 
+Er betonte, dass der Verein auch in Zukunft ein wichtiger Ansprechpartner für die Bewohner des Fürstenschlags bleiben werde und forderte alle Mitglieder auf, sich aktiv am Vereinsleben zu beteiligen. +
+Der Fürstenschlagverein freut sich auf ein weiteres erfolgreiches Jahr und lädt alle Bewohner der Nachbarschaft ein, sich an den kommenden Aktivitäten und Projekten zu beteiligen.
+
+
+=== Alljährliche Putzaktion im Rahmen von "Altdorf putzt sich raus"
+image::Altdorf_putzt_FSV-2023.jpg["Altdorf putzt sich raus",width="60%"]
+Am *Freitag, den 28.04.2023 fand im Fürstenschlag das alljährliche Ramadama im Rahmen der Aktion „Altdorf putzt sich heraus“ statt*. Nachbarn, Familien und Kinder beteiligten sich an der Aktion und sammelten in nur wenigen Stunden eine beeindruckende Menge an Abfall ein.
+Die Aktion wurde vom Fürstenschlagverein organisiert, der sich für ein sauberes und gepflegtes Umfeld in der Nachbarschaft einsetzt. Die Freiwilligen wurden mit Handschuhen, Müllsäcken und Greifzangen ausgestattet und machten sich in Kleingruppen auf den Weg, 
+um die Straßen, Wege und Spielplätze von Müll und Abfall zu befreien. +
+Die Aktion war ein großer Erfolg und trug dazu bei, das Bewusstsein für Umwelt- und Nachhaltigkeitsthemen in der Nachbarschaft zu stärken. 
+Es wurde deutlich, dass viele Menschen bereit sind, sich aktiv für eine saubere Umwelt einzusetzen und Verantwortung zu übernehmen. +
+Die Organisatoren der Aktion bedanken sich bei allen Freiwilligen und hoffen, dass diese Aktion weitere Menschen dazu motiviert,sich aktiv für eine saubere Umwelt einzusetzen.
+
+
+link:#Marke_zurueck[zurück]
+
+[[Marke_3, Frühere]]
+
+== 2019
+=== Frühjahrsfahrt des Fürstenschagvereins zum Kloster Maulbronn und nach Bad Wimpfen
+Den traditionellen Früjahrsausflug des Fürstenschlages führte Manfred Pfeiffer als Organisator
+zunächst zu einem unbekannten aber häufig gesehenen Kloster.
+Das *Kloster Maulbronn* ist nämlich auf der 2 Euro Gedenkmünze des Landes Baden Württemberg zu sehen. 
+Außerdem ist es seit 25 Jahren als Weltkulturerbe bekannt. Die Klosteranlage ist streng genommen 
+eine Klosterstadt mit kleinen Läden, eine Buchhandlung Amtsgericht und Polizeistation. 
+Die Geschichte des Zisterzienserklosters (Abtei) beginnt 1138 als Walter von Lomersheim einem Maulesel 
+den Standort des Klosters wählen hat lassen. Wo heute der Eselsbrunnen steht, fand das Maultier eine Quelle und blieb stehen. 
+Der Ritter beschloss an der Stelle die Klosteranlage zu bauen. +
+Nach einer Führung durch die Klosteranlage ging es weiter nach *Bad Wimpfen*. +
+Kein geringerer als Kaiser Friedrich I. (Barbarossa) ließ die trutzig-wehrhafte Pfalz so erbauen 
+wie sie heute noch in ihrer ganzen Pracht bei einer Panoramafahrt und späteren Führung durch das Burgviertel zu sehen war. 
+Das Burgviertel ist mittlerweile in die mittelalterliche Altstadt Bad Wimpfens eingegliedert. 
+Die Stadt selbst wurde sehr durch die Reformation geprägt und hat viele restaurierte Fachwerkhäuser. 
+Für die Erklärungen über Bad Wimpfen hatten wir örtliche Unterstützung. Selbst ein kurzer Hagelschauer hielt die Teilnehmer 
+nicht davon ab, die interessante Führung bis zum Ende durchzuhalten. +
+Letztlich konnte diese Fahrt nur der Anregung dienen. Alles an einem Tag zu zeigen war natürlich nicht möglich. +
+link:https://photos.app.goo.gl/pdH6EiJPLtZGxxEe7[Bilder der Frühjahrsfahrt 2019 des Fürstenschagvereins]
+
+link:#Marke_zurueck[zurück]
+
+== Ältere Infos 
+++++
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18672371-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+function OpenPic(bigurl, size)
+{
+	var newWindow;
+	if(size==0){
+	newWindow = window.open("", "pictureViewer", 
+			"location=no, directories=no, fullscreen=no, " + 
+			"menubar=no, status=no, toolbar=no, width=820, height=620, scrollbars=no");
+	}
+	else{
+	newWindow = window.open("", "pictureViewer", 
+			"location=no, directories=no, fullscreen=no, " + 
+			"menubar=no, status=no, toolbar=no, width=620, height=820, scrollbars=no");
+	}
+    newWindow.document.writeln("<html>");
+    newWindow.document.writeln("<body style='margin: 10 10 10 10;'>");
+    newWindow.document.writeln("<a href='javascript:window.close();'>");
+    newWindow.document.writeln("<img src='" + bigurl + "' alt='Zum Schliessen klicken!'/>");
+    newWindow.document.writeln("</a>");
+    newWindow.document.writeln("</body></html>");
+    newWindow.document.close();
+}
+</script>
+
+		<div align="center">
+			<a name="top"></a>
+			
+			<h2>2017</h2>
+			<p>	
+			<a href="#nikolaus17">Nikolausfeier</a> - 
+			<a href="#sommerfest17">Weißwurst-Frühschoppen</a> ---> 			
+			</p>
+			<hr/>
+			
+			<h2>2016</h2>
+			<p>	
+			<a href="#nikolaus16">Nikolausfeier</a> - 
+			<a href="#sommerfest16">Sommerfest</a> ---> 			
+			</p>
+			<hr/>
+			
+			<h2>2015</h2>
+			<p>	
+			<a href="#fruehjahrsputz15">Frühjahrsputz</a> - 
+			<a href="#ausflug15">Ausflug nach Passau</a> - 
+			<a href="#regensburg15">Ausflug nach Regensburg</a> - 
+			<a href="#nikolaus15">Nikolausfeier</a>
+			</p>
+			<hr/>
+			
+			<div align="center">
+			<a name="top"></a>
+			<h2>2014</h2>
+			<p>	
+			<a href="#fruehjahrsputz14">Frühjahrsputz</a> - 
+			<a href="#jhv14">Jahreshauptversammlung</a> - 
+			<a href="#ausflug14">Maiausflug in die Röhn</a> - <!-- - 
+			<a href="#sommerfest13">Sommerfest</a> ---> 			
+			<a href="#nikolaus14">Nikolausfeier</a>
+			</p>
+			<hr/>
+			
+			<h2>2013</h2>
+			<p>	
+			<a href="#fruehjahrsputz13">Frühjahrsputz</a> - 
+			<a href="#jhv13">Jahreshauptversammlung</a> - 
+			<a href="#sommerfest13">Sommerfest</a> - 
+			<a href="#ausflug13">Ausflug im November</a> - 
+			<a href="#nikolaus13">Nikolausfeier</a>
+			</p>
+			<hr/>
+			
+			<h2>2012</h2>
+			<p>
+			<a href="#fruehjahrsputz12">Frühjahrsputz</a> - 
+			<a href="#jhv12">Jahreshauptversammlung</a> - 
+			<a href="#weinfahrt12">Weinfahrt</a> - 
+			<a href="#nikolaus12">Nikolausfeier</a>
+			</p>
+			<hr/>
+			
+			<h2>2011</h2>
+			<p>			
+			<a href="#fruehjahrsputz11">Frühjahrsputz</a> - 
+			<a href="#wunschausflug11">Wunschausflug</a> - 
+			<a href="#nikolaus11">Nikolausfeier</a> - 
+			<a href="#senioren11">Seniorennachmittag</a>
+			</p>
+			<hr/>
+			
+			<h2>2010</h2>
+			<p>
+			<a href="#fruehjahrsputz10">Frühjahrsputz</a> - 
+			<a href="#ulm10">Ausflug nach Ulm</a> - 
+			<a href="#jhv10">Jahreshauptversammlung</a> - 
+			<a href="#sommerfest10">Sommerfest</a> - 
+			<a href="#nikolaus10">Nikolausfeier</a>
+			</p>
+			<hr/>
+			
+			<h2>2009</h2>
+			<p>
+			<a href="#fruehjahrsputz09">Frühjahrsputz</a> - 
+			<a href="#landshut09">Ausflug nach Landshut im Mai</a> - 
+			<a href="#nikolaus09">Nikolausfeier</a>
+			</p>
+			<hr/>
+			
+			<h2>2008</h2>
+			<p>
+			<a href="#sommerfest08">Sommerfest</a> - 
+			<a href="#augsburg08">Ausflug nach Augsburg</a> - 
+			<a href="#nikolaus08">Nikolausfeier</a> - 
+			<a href="#senioren08">Seniorennachmittag</a>
+			</p>
+			<hr/>
+			</div>
+		
+			<br>
+			
+			<div align="left"><!--Hier drunter neue adden-->
+
+			<a name="nikolaus17"></a>
+			<br>
+			<h2>Nikolausfeier 2017</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der alljährlichen Nikolausfeier am Fürstenschlag-Spielplatz.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_001.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_001_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_002.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_002_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_003.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_003_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_004.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_004_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_005.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_005_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_006.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_006_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_007.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_007_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus17/CIMG_008.jpg',1);"><img src="gallery/nikolaus17/Thumbs/CIMG_008_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>						
+			<a name="sommerfest17"></a>
+			<br>
+			<h2>Sommerfest 2017</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder vom Weißwurstfrühschoppen im Sommer im Garagenhof der Pfälzer Straße am 27. Juli 2017</p>
+			<p>Bei bestem Wetter war unser Experiment mit einem sommerlichen Frühschoppen gut besucht und ein Erfolg!</p>
+			<p align="center">		
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_001.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_001_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_002.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_002_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_003.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_003_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_004.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_004_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_005.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_005_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest17/20170723_PICT_006.jpg',1);"><img src="gallery/sommerfest17/Thumbs/20170723_PICT_006_t.jpg"></a>
+			</p>			
+			<a name="nikolaus16"></a>
+			<br>
+			<h2>Nikolausfeier 2016</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der alljährlichen Nikolausfeier am Fürstenschlag-Spielplatz.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/01.jpg',1);"><img src="gallery/nikolaus16/thumbs/1.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/02.jpg',1);"><img src="gallery/nikolaus16/thumbs/2.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/03.jpg',1);"><img src="gallery/nikolaus16/thumbs/3.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/04.jpg',0);"><img src="gallery/nikolaus16/thumbs/4.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/05.jpg',0);"><img src="gallery/nikolaus16/thumbs/5.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/06.jpg',0);"><img src="gallery/nikolaus16/thumbs/6.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/07.jpg',0);"><img src="gallery/nikolaus16/thumbs/7.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/08.jpg',0);"><img src="gallery/nikolaus16/thumbs/8.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/09.jpg',0);"><img src="gallery/nikolaus16/thumbs/9.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/10.jpg',0);"><img src="gallery/nikolaus16/thumbs/10.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/11.jpg',0);"><img src="gallery/nikolaus16/thumbs/11.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/12.jpg',0);"><img src="gallery/nikolaus16/thumbs/12.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/13.jpg',0);"><img src="gallery/nikolaus16/thumbs/13.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/14.jpg',0);"><img src="gallery/nikolaus16/thumbs/14.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/15.jpg',0);"><img src="gallery/nikolaus16/thumbs/15.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/16.jpg',0);"><img src="gallery/nikolaus16/thumbs/16.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus16/17.jpg',0);"><img src="gallery/nikolaus16/thumbs/17.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>						
+			<a name="sommerfest16"></a>
+			<br>
+			<h2>Sommerfest 2016</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder vom Sommerfest im Garagenhof der Pfälzer Straße am 29. Juli 2016</p>
+			<p>Bei bestem Wetter war das gemütliche Fest auch dieses Jahr wieder gut besucht und ein Erfolg!</p>
+			<p align="center">		
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/1.jpg',1);"><img src="gallery/sommerfest16/thumbs/1.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/2.jpg',0);"><img src="gallery/sommerfest16/thumbs/2.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/3.jpg',0);"><img src="gallery/sommerfest16/thumbs/3.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/4.jpg',0);"><img src="gallery/sommerfest16/thumbs/4.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/5.jpg',0);"><img src="gallery/sommerfest16/thumbs/5.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/6.jpg',0);"><img src="gallery/sommerfest16/thumbs/6.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/7.jpg',0);"><img src="gallery/sommerfest16/thumbs/7.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest16/8.jpg',0);"><img src="gallery/sommerfest16/thumbs/8.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>			
+			<a name="nikolaus15"></a>
+			<br>
+			<h2>Nikolausfeier 2015</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der alljährlichen Nikolausfeier am Fürstenschlag-Spielplatz.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/01.jpg',1);"><img src="gallery/nikolaus15/thumbs/t_01.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/02.jpg',1);"><img src="gallery/nikolaus15/thumbs/t_02.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/03.jpg',1);"><img src="gallery/nikolaus15/thumbs/t_03.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/04.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_04.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/05.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_05.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/06.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_06.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/07.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_07.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/08.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_08.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/09.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_09.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/10.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_10.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/11.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_11.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/12.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_12.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/13.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_13.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus15/14.jpg',0);"><img src="gallery/nikolaus15/thumbs/t_14.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="regensburg15"></a>
+			<br>
+			<h2>Ausflug nach Regensburg am 17. Oktober</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Unsere Herbstfahrt bei wunderschönem sonnigem Wetter</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/regensburg15/01.jpg',0);"><img src="gallery/regensburg15/thumbs/t_01.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/02.jpg',1);"><img src="gallery/regensburg15/thumbs/t_02.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/03.jpg',0);"><img src="gallery/regensburg15/thumbs/t_03.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/04.jpg',1);"><img src="gallery/regensburg15/thumbs/t_04.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/05.jpg',0);"><img src="gallery/regensburg15/thumbs/t_05.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/06.jpg',0);"><img src="gallery/regensburg15/thumbs/t_06.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/07.jpg',0);"><img src="gallery/regensburg15/thumbs/t_07.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/08.jpg',0);"><img src="gallery/regensburg15/thumbs/t_08.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/09.jpg',0);"><img src="gallery/regensburg15/thumbs/t_09.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/10.jpg',1);"><img src="gallery/regensburg15/thumbs/t_10.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/11.jpg',0);"><img src="gallery/regensburg15/thumbs/t_11.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/12.jpg',1);"><img src="gallery/regensburg15/thumbs/t_12.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/13.jpg',0);"><img src="gallery/regensburg15/thumbs/t_13.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/14.jpg',0);"><img src="gallery/regensburg15/thumbs/t_14.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/15.jpg',0);"><img src="gallery/regensburg15/thumbs/t_15.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/16.jpg',1);"><img src="gallery/regensburg15/thumbs/t_16.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/17.jpg',1);"><img src="gallery/regensburg15/thumbs/t_17.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/18.jpg',0);"><img src="gallery/regensburg15/thumbs/t_18.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/regensburg15/19.jpg',1);"><img src="gallery/regensburg15/thumbs/t_19.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="ausflug15"></a>
+			<br>
+			<h2>Ausflug nach Passau 2015</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ausflug nach Passau am 09.05.2015</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/ausflug15/01.jpg',0);"><img src="gallery/ausflug15/thumbs/t_01.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/02.jpg',0);"><img src="gallery/ausflug15/thumbs/t_02.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/03.jpg',0);"><img src="gallery/ausflug15/thumbs/t_03.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/04.jpg',0);"><img src="gallery/ausflug15/thumbs/t_04.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/05.jpg',0);"><img src="gallery/ausflug15/thumbs/t_05.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/06.jpg',0);"><img src="gallery/ausflug15/thumbs/t_06.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/07.jpg',0);"><img src="gallery/ausflug15/thumbs/t_07.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/08.jpg',0);"><img src="gallery/ausflug15/thumbs/t_08.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/09.jpg',0);"><img src="gallery/ausflug15/thumbs/t_09.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/10.jpg',1);"><img src="gallery/ausflug15/thumbs/t_10.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug15/11.jpg',0);"><img src="gallery/ausflug15/thumbs/t_11.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="fruehjahrsputz15"></a>
+			<br>
+			<h2>Frühjahrsputz 2015</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Frühjahrsputz am 24.04.2015. Mit dem Dreck hielt es sich diesmal in Grenzen.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz15/01.JPG',1);"><img src="gallery/fruehjahrsputz15/thumbs/t_01.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz15/02.JPG',0);"><img src="gallery/fruehjahrsputz15/thumbs/t_02.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz15/03.JPG',0);"><img src="gallery/fruehjahrsputz15/thumbs/t_03.JPG"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="nikolaus14"></a>
+			<br>
+			<h2>Nikolausfeier 2014</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der alljährlichen Nikolausfeier am Fürstenschlag-Spielplatz.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus14/01.JPG',0);"><img src="gallery/nikolaus14/thumbs/t_01.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus14/02.JPG',0);"><img src="gallery/nikolaus14/thumbs/t_02.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus14/03.JPG',0);"><img src="gallery/nikolaus14/thumbs/t_03.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus14/04.JPG',0);"><img src="gallery/nikolaus14/thumbs/t_04.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus14/05.JPG',1);"><img src="gallery/nikolaus14/thumbs/t_05.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus14/06.JPG',0);"><img src="gallery/nikolaus14/thumbs/t_06.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus14/07.JPG',0);"><img src="gallery/nikolaus14/thumbs/t_07.JPG"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="ausflug14"></a>
+			<br>
+			<h2>Maiausflug in die Röhn</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von unserem Ausflug in die Röhn</p>
+			<p align="center">		
+			<a href="#" onClick="OpenPic('gallery/ausflug14/01.JPG',0);"><img src="gallery/ausflug14/thumbs/t_01.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug14/02.JPG',0);"><img src="gallery/ausflug14/thumbs/t_02.JPG"></a>			
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="jhv14"></a>
+			<br>
+			<h2>Jahreshauptversammlung 2014</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der Jahreshauptversammlung am 23.04.2014</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/jhv14/01.jpg',0);"><img src="gallery/jhv14/thumbs/t_01.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="fruehjahrsputz14"></a>
+			<br>
+			<h2>Frühjahrsputz 2014</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Frühjahrsputz am 24.04.2014</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz14/01.jpg',0);"><img src="gallery/fruehjahrsputz14/thumbs/t_01.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz14/02.jpg',0);"><img src="gallery/fruehjahrsputz14/thumbs/t_02.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz14/03.jpg',0);"><img src="gallery/fruehjahrsputz14/thumbs/t_03.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz14/04.jpg',0);"><img src="gallery/fruehjahrsputz14/thumbs/t_04.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz14/05.jpg',0);"><img src="gallery/fruehjahrsputz14/thumbs/t_05.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="nikolaus13"></a>
+			<br>
+			<h2>Nikolausfeier 2013</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Der Nikolaus am Fürstenschlagwald war wieder ein großer Erfolg. Es hat ein wenig geschneit und alle waren glücklich und zufrieden.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/01.JPG',0);"><img src="gallery/nikolaus13/thumbs/01_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/02.JPG',0);"><img src="gallery/nikolaus13/thumbs/02_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/03.JPG',0);"><img src="gallery/nikolaus13/thumbs/03_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/04.JPG',0);"><img src="gallery/nikolaus13/thumbs/04_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/05.JPG',0);"><img src="gallery/nikolaus13/thumbs/05_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/06.JPG',1);"><img src="gallery/nikolaus13/thumbs/06_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/07.JPG',0);"><img src="gallery/nikolaus13/thumbs/07_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/08.JPG',0);"><img src="gallery/nikolaus13/thumbs/08_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/09.JPG',0);"><img src="gallery/nikolaus13/thumbs/09_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/10.JPG',0);"><img src="gallery/nikolaus13/thumbs/10_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/11.JPG',0);"><img src="gallery/nikolaus13/thumbs/11_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/12.JPG',0);"><img src="gallery/nikolaus13/thumbs/12_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/13.JPG',0);"><img src="gallery/nikolaus13/thumbs/13_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/14.JPG',1);"><img src="gallery/nikolaus13/thumbs/14_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/15.JPG',0);"><img src="gallery/nikolaus13/thumbs/15_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/16.JPG',0);"><img src="gallery/nikolaus13/thumbs/16_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/17.JPG',0);"><img src="gallery/nikolaus13/thumbs/17_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/18.JPG',1);"><img src="gallery/nikolaus13/thumbs/18_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/19.JPG',1);"><img src="gallery/nikolaus13/thumbs/19_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/20.JPG',0);"><img src="gallery/nikolaus13/thumbs/20_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/21.JPG',0);"><img src="gallery/nikolaus13/thumbs/21_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/22.JPG',1);"><img src="gallery/nikolaus13/thumbs/22_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/23.JPG',1);"><img src="gallery/nikolaus13/thumbs/23_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/24.JPG',0);"><img src="gallery/nikolaus13/thumbs/24_t.JPG"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus13/25.JPG',0);"><img src="gallery/nikolaus13/thumbs/25_t.JPG"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="ausflug13"></a>
+			<br>
+			<h2>Ausflug am 30. November</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von unserem Ausflug zum Weihnachtsmarkt von Fürstin Gloria von Thurn und Taxis und der Besichtigung der Brauerei Kuchlbauer.</p>
+			<p align="center">		
+			<a href="#" onClick="OpenPic('gallery/ausflug13/01.JPG',1);"><img src="gallery/ausflug13/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/02.JPG',0);"><img src="gallery/ausflug13/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/03.JPG',1);"><img src="gallery/ausflug13/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/04.JPG',1);"><img src="gallery/ausflug13/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/05.JPG',0);"><img src="gallery/ausflug13/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/06.JPG',0);"><img src="gallery/ausflug13/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/07.JPG',0);"><img src="gallery/ausflug13/thumbs/07_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/08.JPG',0);"><img src="gallery/ausflug13/thumbs/08_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/09.JPG',0);"><img src="gallery/ausflug13/thumbs/09_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/10.JPG',0);"><img src="gallery/ausflug13/thumbs/10_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/11.JPG',0);"><img src="gallery/ausflug13/thumbs/11_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/12.JPG',0);"><img src="gallery/ausflug13/thumbs/12_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/13.JPG',0);"><img src="gallery/ausflug13/thumbs/13_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/14.JPG',1);"><img src="gallery/ausflug13/thumbs/14_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/15.JPG',0);"><img src="gallery/ausflug13/thumbs/15_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/16.JPG',1);"><img src="gallery/ausflug13/thumbs/16_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/17.JPG',1);"><img src="gallery/ausflug13/thumbs/17_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/18.JPG',1);"><img src="gallery/ausflug13/thumbs/18_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/19.JPG',1);"><img src="gallery/ausflug13/thumbs/19_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/20.JPG',0);"><img src="gallery/ausflug13/thumbs/20_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/21.JPG',0);"><img src="gallery/ausflug13/thumbs/21_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/22.JPG',0);"><img src="gallery/ausflug13/thumbs/22_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/23.JPG',1);"><img src="gallery/ausflug13/thumbs/23_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/24.JPG',0);"><img src="gallery/ausflug13/thumbs/24_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/25.JPG',0);"><img src="gallery/ausflug13/thumbs/25_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/26.JPG',0);"><img src="gallery/ausflug13/thumbs/26_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/27.JPG',0);"><img src="gallery/ausflug13/thumbs/27_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/28.JPG',0);"><img src="gallery/ausflug13/thumbs/28_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/29.JPG',0);"><img src="gallery/ausflug13/thumbs/29_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/30.JPG',1);"><img src="gallery/ausflug13/thumbs/30_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/31.JPG',0);"><img src="gallery/ausflug13/thumbs/31_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/32.JPG',0);"><img src="gallery/ausflug13/thumbs/32_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/33.JPG',0);"><img src="gallery/ausflug13/thumbs/33_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/34.JPG',0);"><img src="gallery/ausflug13/thumbs/34_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ausflug13/35.JPG',1);"><img src="gallery/ausflug13/thumbs/35_t.jpg"></a>			
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="sommerfest13"></a>
+			<br>
+			<h2>Sommerfest 2013</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder vom Sommerfest im Garagenhof der Pfälzer Straße am 19. Juli 2013</p>
+			<p>Bei strahlendem Sonnenschein war das gemühtliche Fest auch dieses Jahr wieder gut besucht und ein voller Erfolg!</p>
+			<p align="center">		
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/01.jpg',1);"><img src="gallery/sommerfest13/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/02.jpg',0);"><img src="gallery/sommerfest13/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/03.jpg',0);"><img src="gallery/sommerfest13/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/04.jpg',0);"><img src="gallery/sommerfest13/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/05.jpg',0);"><img src="gallery/sommerfest13/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/06.jpg',0);"><img src="gallery/sommerfest13/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/07.jpg',0);"><img src="gallery/sommerfest13/thumbs/07_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/08.jpg',0);"><img src="gallery/sommerfest13/thumbs/08_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/09.jpg',0);"><img src="gallery/sommerfest13/thumbs/09_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest13/10.jpg',1);"><img src="gallery/sommerfest13/thumbs/10_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="jhv13"></a>
+			<br>
+			<h2>Jahreshauptversammlung 2013</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der Jahreshauptversammlung am 24.04.2013</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/jhv13/01.jpg',0);"><img src="gallery/jhv13/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/jhv13/02.jpg',0);"><img src="gallery/jhv13/thumbs/02_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="fruehjahrsputz13"></a>
+			<br>
+			<h2>Frühjahrsputz 2013</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Frühjahrsputz am 26.04.2013 - 12 Erwachsenen und 4 Kinder waren wieder fleissig!</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/01.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/02.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/03.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/04.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/05.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/06.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/07.JPG',1);"><img src="gallery/fruehjahrsputz13/thumbs/07_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/08.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/08_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz13/09.JPG',0);"><img src="gallery/fruehjahrsputz13/thumbs/09_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="nikolaus12"></a>
+			<br>
+			<h2>Nikolausfeier 2012</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ein paar Eindrücke unserer sehr gemütlichen Nikolausfeier 2012</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/01.jpg',0);"><img src="gallery/nikolaus12/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/02.jpg',0);"><img src="gallery/nikolaus12/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/03.jpg',0);"><img src="gallery/nikolaus12/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/04.jpg',0);"><img src="gallery/nikolaus12/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/05.jpg',1);"><img src="gallery/nikolaus12/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/06.jpg',0);"><img src="gallery/nikolaus12/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/07.jpg',0);"><img src="gallery/nikolaus12/thumbs/07_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/08.jpg',1);"><img src="gallery/nikolaus12/thumbs/08_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/09.jpg',0);"><img src="gallery/nikolaus12/thumbs/09_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/10.jpg',0);"><img src="gallery/nikolaus12/thumbs/10_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/11.jpg',0);"><img src="gallery/nikolaus12/thumbs/11_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/12.jpg',0);"><img src="gallery/nikolaus12/thumbs/12_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/13.jpg',0);"><img src="gallery/nikolaus12/thumbs/13_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/14.jpg',0);"><img src="gallery/nikolaus12/thumbs/14_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/15.jpg',0);"><img src="gallery/nikolaus12/thumbs/15_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus12/16.jpg',0);"><img src="gallery/nikolaus12/thumbs/16_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="weinfahrt12"></a>
+			<br>
+			<h2>Weinfahrt 2012</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ausflug nach Zeil am Main am 06.10.2012. Weinprobe in Nordheim mit dem Schoppenexpress.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/01.jpg',0);"><img src="gallery/weinfahrt12/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/02.jpg',1);"><img src="gallery/weinfahrt12/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/03.jpg',0);"><img src="gallery/weinfahrt12/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/04.jpg',1);"><img src="gallery/weinfahrt12/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/05.jpg',1);"><img src="gallery/weinfahrt12/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/06.jpg',0);"><img src="gallery/weinfahrt12/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/07.jpg',1);"><img src="gallery/weinfahrt12/thumbs/07_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/08.jpg',0);"><img src="gallery/weinfahrt12/thumbs/08_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/09.jpg',0);"><img src="gallery/weinfahrt12/thumbs/09_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/10.jpg',0);"><img src="gallery/weinfahrt12/thumbs/10_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/11.jpg',0);"><img src="gallery/weinfahrt12/thumbs/11_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/12.jpg',0);"><img src="gallery/weinfahrt12/thumbs/12_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/13.jpg',0);"><img src="gallery/weinfahrt12/thumbs/13_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/14.jpg',0);"><img src="gallery/weinfahrt12/thumbs/14_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/15.jpg',0);"><img src="gallery/weinfahrt12/thumbs/15_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/16.jpg',0);"><img src="gallery/weinfahrt12/thumbs/16_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/17.jpg',0);"><img src="gallery/weinfahrt12/thumbs/17_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/18.jpg',0);"><img src="gallery/weinfahrt12/thumbs/18_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/weinfahrt12/19.jpg',0);"><img src="gallery/weinfahrt12/thumbs/19_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="jhv12"></a>
+			<br>
+			<h2>Jahreshauptversammlung 2012</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der Jahreshauptversammlung am 25.04.2012</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/jhv12/01.JPG',0);"><img src="gallery/jhv12/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/jhv12/02.JPG',0);"><img src="gallery/jhv12/thumbs/02_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="fruehjahrsputz12"></a>
+			<br>
+			<h2>Frühjahrsputz 2012</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Frühjahrsputz am 20.04.2012 - Dieses Jahr mit einigen Kuriositäten! Auch dieses Jahr haben wieder viele Kinder mitgeholfen!</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz12/01.JPG',0);"><img src="gallery/fruehjahrsputz12/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz12/02.JPG',0);"><img src="gallery/fruehjahrsputz12/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz12/03.JPG',0);"><img src="gallery/fruehjahrsputz12/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz12/04.JPG',0);"><img src="gallery/fruehjahrsputz12/thumbs/04_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="senioren11"></a>
+			<br>
+			<h2>Seniorennachmittag im Dezember 2011</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p> Adventskaffee für unsere Senioren im Melanchthonhaus am 09.12.2011</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/senioren11/01.jpg',0);"><img src="gallery/senioren11/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren11/02.jpg',0);"><img src="gallery/senioren11/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren11/03.jpg',0);"><img src="gallery/senioren11/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren11/04.jpg',1);"><img src="gallery/senioren11/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren11/05.jpg',1);"><img src="gallery/senioren11/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren11/06.jpg',0);"><img src="gallery/senioren11/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren11/07.jpg',0);"><img src="gallery/senioren11/thumbs/07_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="nikolaus11"></a>
+			<br>
+			<h2>Nikolausfeier 2011</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ein paar Eindrücke unserer sehr gemütlichen Nikolausfeier 2011</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/01.jpg',1);"><img src="gallery/nikolaus11/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/02.jpg',1);"><img src="gallery/nikolaus11/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/03.jpg',1);"><img src="gallery/nikolaus11/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/04.jpg',0);"><img src="gallery/nikolaus11/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/05.jpg',1);"><img src="gallery/nikolaus11/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/06.jpg',0);"><img src="gallery/nikolaus11/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/07.jpg',0);"><img src="gallery/nikolaus11/thumbs/07_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/08.jpg',0);"><img src="gallery/nikolaus11/thumbs/08_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/09.jpg',0);"><img src="gallery/nikolaus11/thumbs/09_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/10.jpg',1);"><img src="gallery/nikolaus11/thumbs/10_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/11.jpg',0);"><img src="gallery/nikolaus11/thumbs/11_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/12.jpg',0);"><img src="gallery/nikolaus11/thumbs/12_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/13.jpg',0);"><img src="gallery/nikolaus11/thumbs/13_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/14.jpg',0);"><img src="gallery/nikolaus11/thumbs/14_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/15.jpg',0);"><img src="gallery/nikolaus11/thumbs/15_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus11/16.jpg',0);"><img src="gallery/nikolaus11/thumbs/16_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="wunschausflug11"></a>
+			<br>
+			<h2>Wunschausflug 2011</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Auf vielfachen Wunsch änderte die Vorstandschaft des Vereins ihr Konzept von reinen
+			Städtereisen und kam dem Wunsch vieler Mitglieder nach und machte eine Fahrt durch den
+			Thüringer Wald nahe dem Rennsteig bis zum Frankenwald.
+			<a href ="downloads/Wunschausflug.pdf ">Hier</a> finden Sie einen ausführlicheren Bericht.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/wunschausflug11/1.jpg',0);"><img src="gallery/wunschausflug11/thumbs/1_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/wunschausflug11/2.jpg',0);"><img src="gallery/wunschausflug11/thumbs/2_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/wunschausflug11/3.jpg',0);"><img src="gallery/wunschausflug11/thumbs/3_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/wunschausflug11/4.jpg',0);"><img src="gallery/wunschausflug11/thumbs/4_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="fruehjahrsputz11"></a>
+			<br>
+			<h2>Frühjahrsputz 2011</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Frühjahrsputz am 08.04.2011 - Dieses Jahr gab es viel weniger Müll als sonst, dafür aber mehr Teilnehmer, darunter vorallem Kinder!</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz11/1.jpg',0);"><img src="gallery/fruehjahrsputz11/thumbs/1_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz11/2.jpg',0);"><img src="gallery/fruehjahrsputz11/thumbs/2_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz11/3.jpg',0);"><img src="gallery/fruehjahrsputz11/thumbs/3_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz11/4.jpg',0);"><img src="gallery/fruehjahrsputz11/thumbs/4_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz11/5.jpg',0);"><img src="gallery/fruehjahrsputz11/thumbs/5_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz11/6.jpg',0);"><img src="gallery/fruehjahrsputz11/thumbs/6_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz11/7.jpg',0);"><img src="gallery/fruehjahrsputz11/thumbs/7_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="nikolaus10"></a>
+			<br>
+			<h2>Nikolausfeier 2010</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ein paar Eindrücke unserer sehr gemütlichen Nikolausfeier 2010</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/01.jpg',1);"><img src="gallery/nikolaus10/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/02.jpg',1);"><img src="gallery/nikolaus10/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/03.jpg',1);"><img src="gallery/nikolaus10/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/04.jpg',1);"><img src="gallery/nikolaus10/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/05.jpg',1);"><img src="gallery/nikolaus10/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/06.jpg',1);"><img src="gallery/nikolaus10/thumbs/06_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/07.jpg',0);"><img src="gallery/nikolaus10/thumbs/07_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/08.jpg',1);"><img src="gallery/nikolaus10/thumbs/08_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/09.jpg',1);"><img src="gallery/nikolaus10/thumbs/09_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/10.jpg',0);"><img src="gallery/nikolaus10/thumbs/10_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/11.jpg',1);"><img src="gallery/nikolaus10/thumbs/11_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/12.jpg',1);"><img src="gallery/nikolaus10/thumbs/12_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/13.jpg',0);"><img src="gallery/nikolaus10/thumbs/13_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/14.jpg',0);"><img src="gallery/nikolaus10/thumbs/14_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/15.jpg',0);"><img src="gallery/nikolaus10/thumbs/15_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/16.jpg',0);"><img src="gallery/nikolaus10/thumbs/16_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/17.jpg',0);"><img src="gallery/nikolaus10/thumbs/17_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/18.jpg',1);"><img src="gallery/nikolaus10/thumbs/18_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/19.jpg',1);"><img src="gallery/nikolaus10/thumbs/19_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/20.jpg',1);"><img src="gallery/nikolaus10/thumbs/20_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/21.jpg',0);"><img src="gallery/nikolaus10/thumbs/21_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/22.jpg',0);"><img src="gallery/nikolaus10/thumbs/22_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/23.jpg',1);"><img src="gallery/nikolaus10/thumbs/23_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/24.jpg',1);"><img src="gallery/nikolaus10/thumbs/24_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/25.jpg',0);"><img src="gallery/nikolaus10/thumbs/25_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/26.jpg',1);"><img src="gallery/nikolaus10/thumbs/26_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/27.jpg',1);"><img src="gallery/nikolaus10/thumbs/27_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/28.jpg',0);"><img src="gallery/nikolaus10/thumbs/28_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/29.jpg',1);"><img src="gallery/nikolaus10/thumbs/29_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/30.jpg',1);"><img src="gallery/nikolaus10/thumbs/30_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus10/31.jpg',1);"><img src="gallery/nikolaus10/thumbs/31_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="sommerfest10"></a>
+			<br>
+			<h2>Sommerfest 2010</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder vom Sommerfest im Garagenhof der Pfälzer Straße am 23.07.2010</p>
+			<p>Trotz des schlechten Wetters, war das gemühtliche Fest auch dieses Jahr wieder gut besucht und ein voller Erfolg!</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/1.jpg',0);"><img src="gallery/sommerfest10/thumbs/1_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/2.jpg',1);"><img src="gallery/sommerfest10/thumbs/2_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/3.jpg',0);"><img src="gallery/sommerfest10/thumbs/3_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/4.jpg',1);"><img src="gallery/sommerfest10/thumbs/4_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/5.jpg',1);"><img src="gallery/sommerfest10/thumbs/5_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/6.jpg',1);"><img src="gallery/sommerfest10/thumbs/6_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/7.jpg',1);"><img src="gallery/sommerfest10/thumbs/7_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/8.jpg',0);"><img src="gallery/sommerfest10/thumbs/8_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest10/9.jpg',0);"><img src="gallery/sommerfest10/thumbs/9_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="jhv10"></a>
+			<br>
+			<h2>Jahreshauptversammlung 2010</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder von der Jahreshauptversammlung am 21.04.2010</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/jhv10/01.jpg',0);"><img src="gallery/jhv10/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/jhv10/02.jpg',0);"><img src="gallery/jhv10/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/jhv10/03.jpg',0);"><img src="gallery/jhv10/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/jhv10/04.jpg',0);"><img src="gallery/jhv10/thumbs/04_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/jhv10/05.jpg',0);"><img src="gallery/jhv10/thumbs/05_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/jhv10/06.jpg',0);"><img src="gallery/jhv10/thumbs/06_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="ulm10"></a>
+			<br>
+			<h2>Ausflug nach Ulm 2010</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ein paar Bilder vom Frühlingsausflug nach Ulm am 8. Mai 2010 2010</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/ulm10/01.jpg',0);"><img src="gallery/ulm10/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ulm10/02.jpg',0);"><img src="gallery/ulm10/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/ulm10/03.jpg',1);"><img src="gallery/ulm10/thumbs/03_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="fruehjahrsputz10"></a>
+			<br>
+			<h2>Frühjahrsputz 2010</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Frühlingsputz am 23.04.2010 Dieses Jahr waren leider nur 8 Teilnehmer da, davon 7 vom Vorstand</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz10/01.jpg',0);"><img src="gallery/fruehjahrsputz10/thumbs/01_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="nikolaus09"></a>
+			<br>
+			<h2>Nikolausfeier 2009</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ein paar Eindrücke unserer sehr gemütlichen Nikolausfeier 2009</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus09/01.jpg',0);"><img src="gallery/nikolaus09/thumbs/01_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus09/02.jpg',0);"><img src="gallery/nikolaus09/thumbs/02_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus09/03.jpg',1);"><img src="gallery/nikolaus09/thumbs/03_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus09/04.jpg',1);"><img src="gallery/nikolaus09/thumbs/04_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="landshut09"></a>
+			<br>
+			<h2>Ausflug nach Landshut im Mai 2009</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bilder vom sehr gelungenen Ausflug nach Landshut am Samstag den 09.05.2009 </p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2898.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2898_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2899.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2899_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2906.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2906_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2928.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2928_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2947.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2947_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2954.jpg',1);"><img src="gallery/landshut09/thumbs/CIMG2954_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2956.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2956_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2957.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2957_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2961.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2961_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2965.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2965_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2970.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2970_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2969.jpg',1);"><img src="gallery/landshut09/thumbs/CIMG2969_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2975.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2975_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2985.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2985_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2987.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2987_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG2994.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG2994_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG3003.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG3003_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG3006.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG3006_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG3008.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG3008_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG3014.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG3014_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/landshut09/CIMG3019.jpg',0);"><img src="gallery/landshut09/thumbs/CIMG3019_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="fruehjahrsputz09"></a>
+			<br>
+			<h2>Frühjahrsputz im Fürstenschlag 2009</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Am 24.04.2009 trafen sich Jung und Alt zum traditionellen Frühjahrsputz des Fürstenschlags</p>
+			<p>Auf den Bildern kann man gut sehen, was alles eingesammelt wurde.</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2779.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2779_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2780.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2780_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2781.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2781_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2782.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2782_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2783.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2783_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2784.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2784_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2785.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2785_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2788.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2788_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2789.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2789_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2790.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2790_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/fruehjahrsputz09/CIMG2791.jpg',0);"><img src="gallery/fruehjahrsputz09/thumbs/CIMG2791_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="senioren08"></a>
+			<br>
+			<h2>Seniorennachmittag im Dezember 2008</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Bei Kaffee und selbstgemachtem Kuchen, gab es ein nettes Nachmittagsprogramm für unsere Senioren</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/senioren08/CIMG0436.jpg',0);"><img src="gallery/senioren08/thumbs/CIMG0436_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren08/3.jpg',0);"><img src="gallery/senioren08/thumbs/3_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren08/4.jpg',0);"><img src="gallery/senioren08/thumbs/4_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren08/5.jpg',0);"><img src="gallery/senioren08/thumbs/5_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren08/6.jpg',0);"><img src="gallery/senioren08/thumbs/6_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren08/CIMG0425.jpg',0);"><img src="gallery/senioren08/thumbs/CIMG0425_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/senioren08/CIMG0433.jpg',0);"><img src="gallery/senioren08/thumbs/CIMG0433_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="nikolaus08"></a>
+			<br>
+			<h2>Nikolausfeier 2008</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Ein paar Eindrücke unserer sehr gemütlichen Nikolausfeier am 5. Dezember 2008</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0256.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0256_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0175.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0175_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0187.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0187_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0200.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0200_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0208.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0208_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0214.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0214_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0216.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0216_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0229.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0229_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0233.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0233_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0246.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0246_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0247.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0247_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0249.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0249_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/nikolaus08/CIMG0252.jpg',0);"><img src="gallery/nikolaus08/thumbs/CIMG0252_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="augsburg08"></a>
+			<br>
+			<h2>Augsburg 2008</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>ein paar Bilder von unserer Herbstfahrt nach Augsburg am 20.September 2008</p>
+			<p align="center">
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5458.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5458_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5405.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5405_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5406.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5406_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5419.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5419_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5420.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5420_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5421.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5421_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5422.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5422_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5424.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5424_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5427.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5427_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5432.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5432_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5435.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5435_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5436.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5436_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5437.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5437_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5443.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5443_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5444.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5444_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5448.jpg',0);"><img src="gallery/augsburg08/thumbs/HPIM5448_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5452.jpg',1);"><img src="gallery/augsburg08/thumbs/HPIM5452_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/augsburg08/HPIM5455.jpg',1);"><img src="gallery/augsburg08/thumbs/HPIM5455_t.jpg"></a>
+			</p>
+			<br><div align="center"><hr/></div>
+			<a name="sommerfest08"></a>
+			<br>
+			<h2>Sommerfest 2008</h2>
+			<a href="#top">[zurück nach oben]</a>			
+			<p>Nach einem verheerendem Sturm, der einige Zelte zerstört hatte, konnte das Sommerfest wie gewohnt in gemütlicher Runde stattfinden.</p>
+			<p align = "center">
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4958.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4958_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4959.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4959_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4960.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4960_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4961.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4961_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4962.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4962_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4963.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4963_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4964.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4964_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4965.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4965_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4966.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4966_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4967.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4967_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4968.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4968_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4969.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4969_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4970.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4970_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4971.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4971_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4973.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4973_t.jpg"></a>
+			<a href="#" onClick="OpenPic('gallery/sommerfest08/HPIM4974.jpg',0);"><img src="gallery/sommerfest08/thumbs/HPIM4974_t.jpg"></a>
+			</p>
+			<br>
+			</div>
+
+++++
+
+link:#Marke_zurueck[zurück]
